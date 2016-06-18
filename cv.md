@@ -53,7 +53,7 @@ Oracle E-Business Suite R12 / 11i, PL/SQL, Informatica, Java<br/>
 
 ### EDUCATION
 
-**2015 &mdash; 2017**, <strong> [Master in Computer Science Program](https://www.stevens.edu/schaefer-school-engineering-science/departments/computer-science/graduate-programs/computer-science-masters-program)</strong> <br/>
+**2015 &mdash; 2017**, <strong> [Stevens Institute of Technology](https://www.stevens.edu/schaefer-school-engineering-science/departments/computer-science/graduate-programs/computer-science-masters-program)</strong> <br/>
 Master program by Stevens Institute of Technology.<br/>
 Specialization: Data Mining, Predictive Analytics and Recommendations System.<br/>
 
@@ -63,13 +63,13 @@ Specialization: Computer Engineering<br/>
 
 ### PERSONAL PROJECTS
 
-<strong> ** Netflix For Education** </strong>
+<strong> [Netflix For Education] (https://github.com/keyur9/Course-Based-Recommendation-System) </strong>
 A recommender system built on student’s desired area of interest, either gleaned from past registration history or his / her expressed preference using Python, Flask.
 Includes mining additional data sources such as MOOC course, YouTube video, Google Scholar papers, etc. to produce a broader recommendation set.
 
 ### ACADEMIC PROJECTS
 
-<strong> ** Reataurant Review Classificaiton** </strong>
+<strong> [Reataurant Review Classificaiton](https://github.com/keyur9/Restaurant-Review-Classification) </strong>
 Developed machine learning model to classify restaurant reviews and achieved accuracy of 86.8%.
 Machine Learning Concepts: K-Nearest Neighbor, Logistic Regression, Multinomial Naive Bayes, Voting Classifier
 
