@@ -10,10 +10,10 @@ title: Keyur Doshi - CV
 
 ### Contact Information
 
-- +49 177 490 5706, alexey.s.grigoriev [@] gmail.com
-- linkedin: [http://www.linkedin.com/in/agrigorev](http://www.linkedin.com/in/agrigorev)
-- github: [https://github.com/alexeygrigorev](https://github.com/alexeygrigorev)
-- stackoverflow careers: [https://careers.stackoverflow.com/alexeygrigorev](https://careers.stackoverflow.com/alexeygrigorev)
+- +1 551 225 9068, alexey.s.grigoriev [@] gmail.com
+- linkedin: [http://www.linkedin.com/in/keyur9](http://www.linkedin.com/in/keyur9)
+- github: [https://github.com/keyur9](https://github.com/keyur9)
+- tableau visualization: [https://public.tableau.com/profile/keyur.doshi#!/](https://public.tableau.com/profile/keyur.doshi#!/)
 
 ### Summary
 
@@ -23,25 +23,20 @@ A data scientist with strong technical skills in software engineering.
 ### SKILLS
 
 <strong>Programming Languages / Technologies:</strong> <br/>
-Java, Scala; R, Python (PyData stack)<br/>
+Java; R, Python (scikit-learn, pandas, nltk)<br/>
 
 <strong>Large-Scale Data Processing:</strong> <br/>
-Apache Flink, Apache Spark, Apache Hadoop<br/>
+Apache Spark, Apache Hadoop<br/>
 
 <strong>Theory:</strong> <br/>
-Data Mining, Machine Learning; Probability and Statistics; Linear Algebra<br/>
-
-<strong>Java related skills:</strong> <br/>
-Java core, Spring, JUnit, Maven<br/>
-
-<strong>English:</strong> Advanced (IELTS 8.0)<br/>
+Data Mining, Machine Learning; Probability and Statistics; Natural Language Processing<br/>
 
 
 ### PROFESSIONAL EXPERIENCE
 
-<strong>10.2015 &mdash; ...</strong><br/>
-<strong>[Searchmetrics](http://www.searchmetrics.com)</strong>, Berlin, Germany<br/>
-Position: Data Scientist<br/>
+<strong>07.2016 &mdash; ...</strong><br/>
+<strong>[Argus Information & Advisory Services](http://argusinformation.com/www.argusinformation.com/eng/index.html)</strong>, New York, United States <br/>
+Position: Data & Application Solution Intern<br/>
 
 &nbsp;
 

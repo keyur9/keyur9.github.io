@@ -9,7 +9,7 @@ Welcome to my personal page
 
 ### About me
 
-My name is Alexey and I'm a Data Scientist living in Berlin. I'm originally from [Birobidzhan, Russia](https://en.wikipedia.org/wiki/Birobidzhan). You can see my CV [here](/cv).
+My name is Keyur and I'm an aspiring Data Scientist living in New York. I'm originally from [Jamnagar, India](https://en.wikipedia.org/wiki/Jamnagar). You can see my CV [here](/cv).
 
 I'm an [Erasmus Mundus IT4BI](http://it4bi.univ-tours.fr/) alumni. If you came here to look for more information about IT4BI, then check the [IT4BI page](/it4bi).
 
@@ -17,10 +17,10 @@ I'm an [Erasmus Mundus IT4BI](http://it4bi.univ-tours.fr/) alumni. If you came h
 ### Concact information
 
 - [My CV](/cv)
-- alexey.s.grigoriev [@] gmail.com
+- keyur.kv [@] gmail.com
 
 Profiles:
 
-- linkedin: [https://de.linkedin.com/in/agrigorev](https://de.linkedin.com/in/agrigorev)
-- github: [https://github.com/alexeygrigorev](https://github.com/alexeygrigorev)
+- linkedin: [http://www.linkedin.com/in/keyur9](http://www.linkedin.com/in/keyur9)
+- github: [https://github.com/keyur9](https://github.com/keyur9)
 

@@ -11,7 +11,7 @@ title: Keyur Doshi - IT4BI
 I graduated from the [Erasmus Mundus IT4BI program](http://it4bi.univ-tours.fr/) 
 (Information Technologies for Business Intelligence), which is a Master Program in Business Intelligence
 and related fields like Databases, Data Mining and Data Analysis.
-You can look at the classes we had on the official ["Course Content" page](http://it4bi.univ-tours.fr/home/master-programme/course-content/).
+You can look at the classes we had on the official ["Course Content" page](http://it4bi.univ-tours.fr/home/master-programme/course-content/)
 
 Also, I wrote two blog posts abouts things we studied: 
 
