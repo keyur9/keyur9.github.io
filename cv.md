@@ -40,9 +40,7 @@ Position: Data & Application Solution Intern<br/>
 
 <strong>Project details:</strong><br/>
 Process, analyze and validate credit card data to ensure data integrity by identifying anomalies and suggesting corrective actions. <br/>
-Evaluating correlations among statistical data, identifying trends, summarizing findings across clients & products.
-
-&nbsp;
+Evaluating correlations among statistical data, identifying trends, summarizing findings across clients & products. <br/>
 
 <strong>03.2013 &mdash; 06.2015</strong><br/>
 <strong>[Tata Consultancy Services](http://www.tcs.com/Pages/default.aspx) </strong>, Mumbai, India <br/>
@@ -77,7 +75,7 @@ Includes mining additional data sources such as MOOC course, YouTube video, Goog
 Developed a web application which demonstrates the real time clustering of data and prediction based on users input. Download, share plots - reports and visualize interactive plots of data. <br/>
 Machine Learning Concepts: K-Means Clustering, Generalized Linear Model. <br/>
 
-<strong>[Speech Recognition](https://github.com/keyur9/Speech-Recognition)</strong>
+<strong>[Speech Recognition](https://github.com/keyur9/Speech-Recognition)</strong> <br/>
 Working on Idea to revolutionize Healthcare Industry. Please drop a note to discuss and colloborate. <br/>
 
 <strong>[Twitter Sentimental Analysis](https://github.com/keyur9/How-Fans-reacted-on-twitter-during-match)</strong>
@@ -89,21 +87,21 @@ Developed scripts for data retrieval of tweets during football matches using twi
 Developed machine learning model to classify restaurant reviews and achieved accuracy of 86.8%. <br/>
 Machine Learning Concepts: K-Nearest Neighbor, Logistic Regression, Multinomial Naive Bayes, Voting Classifier.<br/>
 
-<strong>[Web Scraping using Beautiful Soup, Selenium and lxml](https://github.com/keyur9?tab=repositories)</strong>
+<strong>[Web Scraping using Beautiful Soup, Selenium and lxml](https://github.com/keyur9?tab=repositories)</strong> <br/>
 Developed scripts to scrape data consists of reviews of products from e-commerce websites. <br/>
 Analyzed the data and compared execution time of scripts. <br/>
 
-<strong>[Story Telling with Tableau](https://public.tableau.com/profile/keyur.doshi#!/)</strong>
+<strong>[Story Telling with Tableau](https://public.tableau.com/profile/keyur.doshi#!/)</strong> <br/>
 Visualized NYC Bike sharing trip data using Mapbox as a third party mapping tool with Tableau.<br/>
 Created story about the footprints of the tweets by integrating D3.js with Tableau.<br/>
 
-<strong>[Simplified Search Engine](https://github.com/keyur9/Simplified-Search-Engine)</strong>>
+<strong>[Simplified Search Engine](https://github.com/keyur9/Simplified-Search-Engine)</strong> <br/>
 Simplified Search Engine using all the words as index terms excluding stop words such as articles, prepositions, and pronouns.<br/>
 
-<strong>[Inventory Management System](https://github.com/keyur9/Inventory-Management-System)</strong>
+<strong>[Inventory Management System](https://github.com/keyur9/Inventory-Management-System)</strong> <br/>
 Software that provides complete Maintenance, Replacement and Operational support for [ESKAY INDUSTRIES](http://www.eskayindustries.com/) using C#.NET, SQL <br/>
 
-<strong>[ShopAll](https://github.com/keyur9/ShopAll)</strong>
+<strong>[ShopAll](https://github.com/keyur9/ShopAll)</strong> <br/>
 A website which lists products and show promotion scheme <br/>
 
 #### INDEPENDENT COURSEWORK

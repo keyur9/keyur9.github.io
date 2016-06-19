@@ -12,7 +12,7 @@ Welcome to my personal page
 My name is Keyur and I'm an aspiring Data Scientist living in New York. I'm originally from [Jamnagar, India](https://en.wikipedia.org/wiki/Jamnagar). You can see my CV [here](/cv).
 
 
-### Concact information
+### Contact Information
 
 - [My CV](/cv)
 - keyur.kv [@] gmail.com
