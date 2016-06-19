@@ -39,8 +39,8 @@ Data Mining, Machine Learning; Probability and Statistics; Natural Language Proc
 Position: Data & Application Solution Intern<br/>
 
 <strong>Project details:</strong><br/>
-Process, analyze and validate credit card data to ensure data integrity by identifying anomalies and suggesting corrective actions <br/>
-Evaluating correlations among statistical data, identifying trends, summarizing findings across clients & products <br/>
+Process, analyze and validate credit card data to ensure data integrity by identifying anomalies and suggesting corrective actions. <br/>
+Evaluating correlations among statistical data, identifying trends, summarizing findings across clients & products.
 
 &nbsp;
 
@@ -77,6 +77,9 @@ Includes mining additional data sources such as MOOC course, YouTube video, Goog
 Developed a web application which demonstrates the real time clustering of data and prediction based on users input. Download, share plots - reports and visualize interactive plots of data. <br/>
 Machine Learning Concepts: K-Means Clustering, Generalized Linear Model. <br/>
 
+<strong>[Speech Recognition](https://github.com/keyur9/Speech-Recognition)</strong>
+Working on Idea to revolutionize Healthcare Industry. Please drop a note to discuss and colloborate. <br/>
+
 <strong>[Twitter Sentimental Analysis](https://github.com/keyur9/How-Fans-reacted-on-twitter-during-match)</strong>
 Developed scripts for data retrieval of tweets during football matches using twitter API and performed data cleansing. Analyzed sentiments of teams during the game. <br/>
 
@@ -93,6 +96,15 @@ Analyzed the data and compared execution time of scripts. <br/>
 <strong>[Story Telling with Tableau](https://public.tableau.com/profile/keyur.doshi#!/)</strong>
 Visualized NYC Bike sharing trip data using Mapbox as a third party mapping tool with Tableau.<br/>
 Created story about the footprints of the tweets by integrating D3.js with Tableau.<br/>
+
+<strong>[Simplified Search Engine](https://github.com/keyur9/Simplified-Search-Engine)</strong>>
+Simplified Search Engine using all the words as index terms excluding stop words such as articles, prepositions, and pronouns.<br/>
+
+<strong>[Inventory Management System](https://github.com/keyur9/Inventory-Management-System)</strong>
+Software that provides complete Maintenance, Replacement and Operational support for [ESKAY INDUSTRIES](http://www.eskayindustries.com/) using C#.NET, SQL <br/>
+
+<strong>[ShopAll](https://github.com/keyur9/ShopAll)</strong>
+A website which lists products and show promotion scheme <br/>
 
 #### INDEPENDENT COURSEWORK
 
