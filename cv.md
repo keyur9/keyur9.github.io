@@ -34,10 +34,11 @@ Data Mining, Machine Learning; Probability and Statistics; Natural Language Proc
 
 ### PROFESSIONAL EXPERIENCE
 
-<strong>07.2016 &mdash; ...</strong><br/>
+<strong>06.2016 &mdash; ...</strong><br/>
 <strong>[Argus Information & Advisory Services](http://argusinformation.com/www.argusinformation.com/eng/index.html)</strong>, New York, United States <br/>
 Position: Data & Application Solution Intern<br/>
 
+<strong>Project details:</strong><br/>
 Process, analyze and validate credit card data to ensure data integrity by identifying anomalies and suggesting corrective actions <br/>
 Evaluating correlations among statistical data, identifying trends, summarizing findings across clients & products <br/>
 
@@ -72,11 +73,11 @@ Cummulative GPA: 7.99 / 10 <br/>
 A recommender system built on student’s desired area of interest, either gleaned from past registration history or his / her expressed preference. <br/>
 Includes mining additional data sources such as MOOC course, YouTube video, Google Scholar papers, etc. to produce a broader recommendation set. <br/>
 
-<strong>[Real Time Data Clustering]()</strong><br/>
+<strong>[Real Time Data Clustering](https://github.com/keyur9/Analyzing-Real-Time-Data)</strong><br/>
 Developed a web application which demonstrates the real time clustering of data and prediction based on users input. Download, share plots - reports and visualize interactive plots of data. <br/>
 Machine Learning Concepts: K-Means Clustering, Generalized Linear Model. <br/>
 
-<strong>[Twitter Sentimental Analysis]()</strong>
+<strong>[Twitter Sentimental Analysis](https://github.com/keyur9/How-Fans-reacted-on-twitter-during-match)</strong>
 Developed scripts for data retrieval of tweets during football matches using twitter API and performed data cleansing. Analyzed sentiments of teams during the game. <br/>
 
 ### ACADEMIC PROJECTS
@@ -85,11 +86,11 @@ Developed scripts for data retrieval of tweets during football matches using twi
 Developed machine learning model to classify restaurant reviews and achieved accuracy of 86.8%. <br/>
 Machine Learning Concepts: K-Nearest Neighbor, Logistic Regression, Multinomial Naive Bayes, Voting Classifier.<br/>
 
-<strong>[Web Scraping using Beautiful Soup, Selenium and lxml]()</strong>
+<strong>[Web Scraping using Beautiful Soup, Selenium and lxml](https://github.com/keyur9?tab=repositories)</strong>
 Developed scripts to scrape data consists of reviews of products from e-commerce websites. <br/>
 Analyzed the data and compared execution time of scripts. <br/>
 
-<strong>[Story Telling with Tableau]()</strong>
+<strong>[Story Telling with Tableau](https://public.tableau.com/profile/keyur.doshi#!/)</strong>
 Visualized NYC Bike sharing trip data using Mapbox as a third party mapping tool with Tableau.<br/>
 Created story about the footprints of the tweets by integrating D3.js with Tableau.<br/>
 
