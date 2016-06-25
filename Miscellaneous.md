@@ -13,7 +13,7 @@ title: Keyur Doshi - Read, Watch & Learn
 - [How can I make $12,000 for next 6 months? by Rizwan Aseem](https://www.quora.com/How-can-I-make-12-000-for-next-6-months/answer/Rizwan-Aseem?srid=z3JD&share=6c7592c6)
 - [What does it feel like to be an introvert? by Ellen Vrana](https://www.quora.com/What-does-it-feel-like-to-be-an-introvert/answer/Ellen-Vrana?srid=z3JD&share=6d729a59)
 - [What should one not do in life? by Max Lukominskyi](https://www.quora.com/What-should-one-not-do-in-life/answer/Max-Lukominskyi-1?srid=z3JD&share=190f12bc)
-- [Why do some Quorans recommend starting a business so much as if it's nothing? by Rizwan Aseem](ttps://www.quora.com/Why-do-some-Quorans-recommend-starting-a-business-so-much-as-if-its-nothing/answer/Rizwan-Aseem?srid=z3JD&share=5a4034e5)
+- [Why do some Quorans recommend starting a business so much as if it's nothing? by Rizwan Aseem](https://www.quora.com/Why-do-some-Quorans-recommend-starting-a-business-so-much-as-if-its-nothing/answer/Rizwan-Aseem?srid=z3JD&share=5a4034e5)
 - [Can you successfully sue an entrepreneur for stealing your idea and nothing else? by Brett Fox](https://www.quora.com/Can-you-successfully-sue-an-entrepreneur-for-stealing-your-idea-and-nothing-else/answer/Brett-Fox-8?srid=z3JD&share=e8adb293)
 - [Life Advice: What are some of the most important things that we should be informed about in life? by Rizwan Aseem](https://www.quora.com/Life-Advice-What-are-some-of-the-most-important-things-that-we-should-be-informed-about-in-life/answers/6934655?srid=z3JD&share=18acee71)
 - [What are some books that will make me think different? by Nela Canovic](https://www.quora.com/What-are-some-books-that-will-make-me-think-different/answer/Nela-Canovic?srid=z3JD&share=7cb0be4a)
