@@ -1,7 +1,7 @@
 ---
 
 layout: default
-title: Keyur Doshi - Read, Watch & Learn
+title: Keyur Doshi - Miscellaneous
 
 ---
 
