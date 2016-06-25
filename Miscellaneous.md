@@ -3,6 +3,8 @@
 layout: default
 title: Keyur Doshi - Read, Watch & Learn
 
+---
+
 ## List of Favourite Quora Questions / Answers:
 
 - [What is it that nobody tells you about adult life? by Nelson Wang](https://www.quora.com/What-is-it-that-nobody-tells-you-about-adult-life/answer/Nelson-Wang-2?srid=z3JD&share=197d3ce1)
@@ -42,5 +44,3 @@ title: Keyur Doshi - Read, Watch & Learn
 - [Answer on @Quora by Gayle Laakmann McDowell to How much do interns contribute to the growth of a company?](https://www.quora.com/How-much-do-interns-contribute-to-the-growth-of-a-company/answer/Gayle-Laakmann-McDowell?srid=z3JD&share=97ab01c2)
 - [Answer on @Quora by Vladimir Novakovski to How much do interns contribute to the growth of a company?](https://www.quora.com/How-much-do-interns-contribute-to-the-growth-of-a-company/answer/Vladimir-Novakovski?srid=z3JD&share=1a99fa1d)
 - [Answer on @Quora by Michael Simmons to How can I be as great as Bill Gates, Steve Jobs, Elon Musk or Sir Richard Br…](https://www.quora.com/How-can-I-be-as-great-as-Bill-Gates-Steve-Jobs-Elon-Musk-or-Sir-Richard-Branson/answer/Michael-Simmons-2?srid=z3JD&share=734ef3f0)
-
----
