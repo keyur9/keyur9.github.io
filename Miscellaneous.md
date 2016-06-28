@@ -28,10 +28,12 @@ title: Keyur Doshi - Miscellaneous
 - [Misusing P-values](http://fivethirtyeight.com/features/statisticians-found-one-thing-they-can-agree-on-its-time-to-stop-misusing-p-values/)
 - [Answer on @Quora by Taposh Dutta-Roy to What is your data science pipeline/workflow?](https://www.quora.com/What-is-your-data-science-pipeline-workflow/answer/Taposh-Dutta-Roy?srid=z3JD&share=e444ee1d)
 - [What should I learn in data science in 100 hours? by Roman Trusov](https://www.quora.com/What-should-I-learn-in-data-science-in-100-hours/answer/Roman-Trusov?srid=z3JD&share=090526c5)
+- [What are the most common mistakes made by aspiring data scientists?](https://www.quora.com/What-are-the-most-common-mistakes-made-by-aspiring-data-scientists/answer/Jenelle-Bray?srid=z3JD)
 - [Profile on @Quora for Roman Trusov, Data Scientist](https://www.quora.com/profile/Roman-Trusov?srid=z3JD&share=fc7bbbe9)
 
 ### Startup
 
+-[I'm a student creating a startup. What do I do now?](https://www.quora.com/Im-a-student-creating-a-start-up-What-do-I-do-now/answer/Michael-Wolfe?srid=z3JD)
 - [What are some inspiring and successful business models of startups? by Emma Jones](https://www.quora.com/What-are-some-inspiring-and-successful-business-models-of-startups/answer/Emma-Jones-123?srid=z3JD&share=2d6280ba)
 - [Why do some Quorans recommend starting a business so much as if it's nothing? by Rizwan Aseem](https://www.quora.com/Why-do-some-Quorans-recommend-starting-a-business-so-much-as-if-its-nothing/answer/Rizwan-Aseem?srid=z3JD&share=5a4034e5)
 - [Can you successfully sue an entrepreneur for stealing your idea and nothing else? by Brett Fox](https://www.quora.com/Can-you-successfully-sue-an-entrepreneur-for-stealing-your-idea-and-nothing-else/answer/Brett-Fox-8?srid=z3JD&share=e8adb293)
