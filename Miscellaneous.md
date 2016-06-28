@@ -58,6 +58,7 @@ title: Keyur Doshi - Miscellaneous
 - [How can I develop self confidence and self-esteem? by Gerard Danford](https://www.quora.com/How-can-I-develop-self-confidence-and-self-esteem/answer/Gerard-Danford?srid=z3JD&share=d4b0baa8)
 - [Answer on @Quora by Rich Tatum to What are the most difficult and useful things people have to learn in their 20s?](https://www.quora.com/What-are-the-most-difficult-and-useful-things-people-have-to-learn-in-their-20s/answer/Rich-Tatum?srid=z3JD&share=ac15bf41)
 - [Why are some very smart people so quiet?](https://www.quora.com/Why-are-some-very-smart-people-so-quiet/answer/Richard-Muller-3?srid=z3JD)
+- [What are a few things that very successful people never do?](https://www.quora.com/What-are-a-few-things-that-very-successful-people-never-do/answer/Dean-Yeong?srid=z3JD)
 
 
 ### Miscellanous
