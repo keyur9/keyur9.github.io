@@ -33,7 +33,7 @@ title: Keyur Doshi - Miscellaneous
 
 ### Startup
 
--[I'm a student creating a startup. What do I do now?](https://www.quora.com/Im-a-student-creating-a-start-up-What-do-I-do-now/answer/Michael-Wolfe?srid=z3JD)
+- [I'm a student creating a startup. What do I do now?](https://www.quora.com/Im-a-student-creating-a-start-up-What-do-I-do-now/answer/Michael-Wolfe?srid=z3JD)
 - [What are some inspiring and successful business models of startups? by Emma Jones](https://www.quora.com/What-are-some-inspiring-and-successful-business-models-of-startups/answer/Emma-Jones-123?srid=z3JD&share=2d6280ba)
 - [Why do some Quorans recommend starting a business so much as if it's nothing? by Rizwan Aseem](https://www.quora.com/Why-do-some-Quorans-recommend-starting-a-business-so-much-as-if-its-nothing/answer/Rizwan-Aseem?srid=z3JD&share=5a4034e5)
 - [Can you successfully sue an entrepreneur for stealing your idea and nothing else? by Brett Fox](https://www.quora.com/Can-you-successfully-sue-an-entrepreneur-for-stealing-your-idea-and-nothing-else/answer/Brett-Fox-8?srid=z3JD&share=e8adb293)
