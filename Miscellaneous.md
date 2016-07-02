@@ -72,6 +72,7 @@ title: Keyur Doshi - Miscellaneous
 - [What are the disadvantages of working at Google? by Robert Menke](https://www.quora.com/What-are-the-disadvantages-of-working-at-Google/answer/Robert-Menke-4?srid=z3JD&share=8cbb773c)
 - [How to get interview call](http://www.inc.com/jeff-haden/how-to-get-the-interview-and-get-hired-by-sending-a-cold-email-6-steps.html)
 - [What was the best advice you ever received on being productive?](https://www.quora.com/What-was-the-best-advice-you-ever-received-on-being-productive/answer/CamMi-Pham?srid=z3JD)
+- [What is something you don't like about TED Talks?](https://www.quora.com/What-is-something-you-dont-like-about-TED-Talks/answer/Franklin-Veaux?srid=z3JD)
 
 
 ### Favourite YouTube Videos
