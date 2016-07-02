@@ -73,6 +73,7 @@ title: Keyur Doshi - Miscellaneous
 - [How to get interview call](http://www.inc.com/jeff-haden/how-to-get-the-interview-and-get-hired-by-sending-a-cold-email-6-steps.html)
 - [What was the best advice you ever received on being productive?](https://www.quora.com/What-was-the-best-advice-you-ever-received-on-being-productive/answer/CamMi-Pham?srid=z3JD)
 - [What is something you don't like about TED Talks?](https://www.quora.com/What-is-something-you-dont-like-about-TED-Talks/answer/Franklin-Veaux?srid=z3JD)
+- [Do Chinese people have creativity?](https://www.quora.com/Do-Chinese-people-have-creativity/answer/Michelle-Zhou-28?srid=z3JD)
 
 
 ### Favourite YouTube Videos
