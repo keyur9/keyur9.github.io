@@ -19,6 +19,7 @@ title: Keyur Doshi - Miscellaneous
 - [What is some advice you can give on finding and attracting mentors? by Brett Fox](https://www.quora.com/What-is-some-advice-you-can-give-on-finding-and-attracting-mentors/answer/Brett-Fox-8?srid=z3JD&share=ae7fabd2)
 - [Answer on @Quora by Elynn Lee to How do I write an email declining an internship offer?](https://www.quora.com/How-do-I-write-an-email-declining-an-internship-offer/answer/Elynn-Lee?srid=z3JD&share=84d479f7)
 - [What has been your biggest career mistake? by Shefeeq Mohammed](https://www.quora.com/What-has-been-your-biggest-career-mistake/answer/Shefeeq-Mohammed?srid=z3JD&share=4d46993e)
+- [What are some traits/practices of experienced/good programmers that every beginner programmer should know?](https://www.quora.com/What-are-some-traits-practices-of-experienced-good-programmers-that-every-beginner-programmer-should-know/answer/Ken-Mazaika?srid=z3JD)
 
 
 ### Data Science
