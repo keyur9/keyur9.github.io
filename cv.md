@@ -53,7 +53,7 @@ Position: Oracle ERP Technical Developer<br/>
 - Initiated and led process improvement ideations generating savings of USD 50,000 annually + 75 minute wait time.<br/>
 
 <strong>Technologies:</strong><br/>
-Oracle E-Business Suite R12 / 11i, PL/SQL, Informatica, Oracle Application Framework (OAF) <br/>
+- Oracle E-Business Suite R12 / 11i, PL/SQL, Informatica, Oracle Application Framework (OAF) <br/>
 
 
 ### EDUCATION
