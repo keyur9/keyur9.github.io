@@ -48,6 +48,7 @@ title: Keyur Doshi - Miscellaneous
 - [How do I learn Apache Spark?](https://www.quora.com/How-do-I-learn-Apache-Spark/answer/Suman-Bharadwaj?srid=z3JD)
 - [How do I learn Apache Spark?](https://www.quora.com/How-do-I-learn-Apache-Spark/answer/Ramaninder-Singh?srid=z3JD)
 - [What are the some good pet projects to run Apache Spark?] (https://www.quora.com/What-can-be-some-good-pet-projects-to-learn-Apache-Spark/answers/13259490?srid=z3JD)
+- [What is the future of Apache Spark](https://www.quora.com/What-is-the-future-of-Apache-Spark/answer/Pranas-Baliuka-1?srid=z3JD)
 
 ### Life Advice
 
