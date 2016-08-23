@@ -41,6 +41,8 @@ Position: Data & Application Solution Intern<br/>
 <strong>Project details:</strong><br/>
 - Process, analyze and validate credit card data to ensure data integrity by identifying anomalies and suggesting corrective actions. <br/>
 - Evaluated correlations among statistical data, identifying trends, summarizing findings across clients and products. <br/>
+- Spearheaded Global Studies Code Repository Application reducing validation time by 900 minutes per month. <br/>
+- Developed proof of concept for In-house application - built to replace Data Transformation Services packages. <br/>
 
 <strong>03.2013 &mdash; 06.2015</strong><br/>
 <strong>[Tata Consultancy Services](http://www.tcs.com/Pages/default.aspx) </strong>, Mumbai, India <br/>
