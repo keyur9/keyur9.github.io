@@ -76,6 +76,10 @@ Cummulative GPA: 3.2 / 4.0 <br/>
 - Building a recommender system on student’s desired area of interest, either gleaned from past registrations history or expressed preferences. <br/>
 - Incorporating additional data sources such as MOOC course, YouTube video, Google Scholar papers to produce a broader recommendation set. <br/>
 
+<strong>[Web Server Log Analysis](https://github.com/keyur9/Big-Data-Analysis-using-Apache-Spark)</strong><br/>
+- Built a log analyzer to analyze the HTTP requests in NASA Kennedy Space Center web server. <br/>
+- Processed the source of the hosts and failed requests to analyze client behavior and visualize the results. <br/>
+
 <strong>[Real Time Data Clustering](https://github.com/keyur9/Analyzing-Real-Time-Data)</strong><br/>
 - Developed a web application to demonstrate the real time clustering of data and prediction based on user input. <br/>
 - Integrated features to download, share and visualize interactive plots of data. <br/>
