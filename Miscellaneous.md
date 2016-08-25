@@ -43,12 +43,14 @@ title: Keyur Doshi - Miscellaneous
 - [I'm a student creating a startup. What do I do now?](https://www.quora.com/Im-a-student-creating-a-start-up-What-do-I-do-now/answer/Michael-Wolfe?srid=z3JD)
 - [What advice will you give a person to start an educational startup?](https://www.quora.com/What-advice-will-you-give-a-person-to-start-an-educational-startup/answer/Sebastian-Thrun?srid=z3JD)
 
+
 ### Apache Spark
 
 - [How do I learn Apache Spark?](https://www.quora.com/How-do-I-learn-Apache-Spark/answer/Suman-Bharadwaj?srid=z3JD)
 - [How do I learn Apache Spark?](https://www.quora.com/How-do-I-learn-Apache-Spark/answer/Ramaninder-Singh?srid=z3JD)
 - [What are the some good pet projects to run Apache Spark?] (https://www.quora.com/What-can-be-some-good-pet-projects-to-learn-Apache-Spark/answers/13259490?srid=z3JD)
 - [What is the future of Apache Spark](https://www.quora.com/What-is-the-future-of-Apache-Spark/answer/Pranas-Baliuka-1?srid=z3JD)
+- [What exactly is Apache Spark and how does it works?](https://www.quora.com/What-exactly-is-Apache-Spark-and-how-does-it-work/answer/Reynold-Xin?srid=z3JD)
 
 ### Life Advice
 
