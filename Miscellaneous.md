@@ -33,6 +33,8 @@ title: Keyur Doshi - Miscellaneous
 - [Profile on @Quora for Roman Trusov, Data Scientist](https://www.quora.com/profile/Roman-Trusov?srid=z3JD&share=fc7bbbe9)
 - [If correlation doesn’t imply causation, then what does?](https://www.buzzfeed.com/adamkelleher/if-correlation-doesnt-imply-causation-then-what-does?utm_term=.xnA2Bk0W54#.epgYVnD8eJ)
 - [Top Data Scientists to Follow & Best Data Science Tutorials on GitHub](http://www.analyticsvidhya.com/blog/2015/07/github-special-data-scientists-to-follow-best-tutorials/?utm_content=buffere621b&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer)
+- [What are the downsides of being data scientist?](https://www.quora.com/What-are-the-downsides-of-being-a-data-scientist/answer/Abhinav-Sharma?srid=z3JD)
+- [What is a data scientist career path?](https://www.quora.com/What-is-a-data-scientists-career-path-1/answer/Mark-Meloon?srid=z3JD)
 
 ### Startup
 
