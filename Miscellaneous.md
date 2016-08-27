@@ -35,6 +35,10 @@ title: Keyur Doshi - Miscellaneous
 - [Top Data Scientists to Follow & Best Data Science Tutorials on GitHub](http://www.analyticsvidhya.com/blog/2015/07/github-special-data-scientists-to-follow-best-tutorials/?utm_content=buffere621b&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer)
 - [What are the downsides of being data scientist?](https://www.quora.com/What-are-the-downsides-of-being-a-data-scientist/answer/Abhinav-Sharma?srid=z3JD)
 - [What is a data scientist career path?](https://www.quora.com/What-is-a-data-scientists-career-path-1/answer/Mark-Meloon?srid=z3JD)
+- [What are the downside of being data scientist?](https://www.quora.com/What-are-the-downsides-of-being-a-data-scientist/answer/Abhinav-Sharma?srid=z3JD)
+- [Are data science jobs going to be oversaturated?](https://www.quora.com/Are-data-science-jobs-going-to-be-oversaturated/answer/Paul-King-2?srid=z3JD)
+- [What are good companies or job positions for an aspiring data scientist without a PhD?](https://www.quora.com/What-are-good-companies-or-job-positions-for-an-aspiring-data-scientist-without-a-PhD/answer/Ryan-Elmore-2?srid=z3JD)
+- [What are the most valuable skills to learn for a data scientist now?](https://www.quora.com/What-are-the-most-valuable-skills-to-learn-for-a-data-scientist-now/answer/Paul-Jeon-3?srid=z3JD)
 
 ### Startup
 
