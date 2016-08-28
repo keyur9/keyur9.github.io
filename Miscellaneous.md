@@ -60,6 +60,13 @@ title: Keyur Doshi - Miscellaneous
 - [What is the difference between Apache Spark and Apache Hadoop (Map-Reduce) ?](https://www.quora.com/What-is-the-difference-between-Apache-Spark-and-Apache-Hadoop-Map-Reduce/answer/Suman-Bharadwaj?srid=z3JD)
 - [Is it good to learn Hadoop though spark is better than map reduce?](https://www.quora.com/Is-it-good-to-learn-Hadoop-though-spark-is-better-than-map-reduce/answer/Solaimurugan-Vellaipandiyan-1?srid=z3JD)
 - [How is the Apache Spark project governance different from that of Apache Hadoop?](https://www.quora.com/How-is-the-Apache-Spark-project-governance-different-from-that-of-Apache-Hadoop/answer/Sean-Owen?srid=z3JD)
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
 
 ### Life Advice
 
