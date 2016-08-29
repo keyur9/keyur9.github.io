@@ -60,13 +60,15 @@ title: Keyur Doshi - Miscellaneous
 - [What is the difference between Apache Spark and Apache Hadoop (Map-Reduce) ?](https://www.quora.com/What-is-the-difference-between-Apache-Spark-and-Apache-Hadoop-Map-Reduce/answer/Suman-Bharadwaj?srid=z3JD)
 - [Is it good to learn Hadoop though spark is better than map reduce?](https://www.quora.com/Is-it-good-to-learn-Hadoop-though-spark-is-better-than-map-reduce/answer/Solaimurugan-Vellaipandiyan-1?srid=z3JD)
 - [How is the Apache Spark project governance different from that of Apache Hadoop?](https://www.quora.com/How-is-the-Apache-Spark-project-governance-different-from-that-of-Apache-Hadoop/answer/Sean-Owen?srid=z3JD)
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
+- [Understanding Resilient Distributed Datasets in Apache Spark](http://data-flair.training/blogs/resilient-distributed-datasets-rdd-apache-spark/)
+- [Why is Spark RDD immutable?](https://www.quora.com/Why-is-a-spark-RDD-immutable/answer/Sean-Owen?srid=z3JD)
+- [How does Apache Spark process data that does not fit into the memory?](https://www.quora.com/How-does-Apache-Spark-process-data-that-does-not-fit-into-the-memory/answer/Michiel-Van-Herwegen?srid=z3JD)
+- [In Spark, how does lineage get passed down in RDDs ?](http://stackoverflow.com/questions/30699530/in-apache-spark-how-does-lineage-get-passed-down-in-rdds)
+- [How does Spark works internally?](http://stackoverflow.com/questions/30691385/internal-work-of-spark/30691654#30691654)
+- [Can Apache Flink replace Apache Spark?](https://www.quora.com/Can-Apache-Flink-replace-Apache-Spark/answer/Deepak-Patil-43?srid=z3JD)
+- [What is the difference between Apache Spark and Apache Flink?](http://stackoverflow.com/questions/28082581/what-is-the-difference-between-apache-spark-and-apache-flink)
+- [Flink vs Spark](http://www.slideshare.net/sbaltagi/flink-vs-spark)
+- [Flink vs Spark: Deep Dive](http://www.slideshare.net/AKASHSIHAG/apache-spark-vs-apache-flink-59806601?qid=a9f45c5d-8f44-44d8-a7d5-fe5a445e5cf1&v=&b=&from_search=10)
 
 ### Life Advice
 
