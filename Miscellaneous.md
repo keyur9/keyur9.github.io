@@ -69,6 +69,9 @@ title: Keyur Doshi - Miscellaneous
 - [What is the difference between Apache Spark and Apache Flink?](http://stackoverflow.com/questions/28082581/what-is-the-difference-between-apache-spark-and-apache-flink)
 - [Flink vs Spark](http://www.slideshare.net/sbaltagi/flink-vs-spark)
 - [Flink vs Spark: Deep Dive](http://www.slideshare.net/AKASHSIHAG/apache-spark-vs-apache-flink-59806601?qid=a9f45c5d-8f44-44d8-a7d5-fe5a445e5cf1&v=&b=&from_search=10)
+- [Is there any online training institue which is giving training on Apache Flink?](https://www.quora.com/Is-there-any-online-training-institue-which-is-giving-training-on-Apache-Flink/answer/Henry-Saputra?srid=z3JD)
+- [What are the various resources from which I can get the knowledge of Apache Flink?](https://www.quora.com/What-are-the-various-resources-from-which-I-can-get-the-knowledge-of-Apache-Flink/answer/Fabian-Hueske?srid=z3JD)
+- [Top Apache Spark Interview questions](https://intellipaat.com/interview-question/apache-spark-interview-questions/)
 
 ### Life Advice
 
