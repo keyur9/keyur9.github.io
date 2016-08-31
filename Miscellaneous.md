@@ -39,6 +39,9 @@ title: Keyur Doshi - Miscellaneous
 - [Are data science jobs going to be oversaturated?](https://www.quora.com/Are-data-science-jobs-going-to-be-oversaturated/answer/Paul-King-2?srid=z3JD)
 - [What are good companies or job positions for an aspiring data scientist without a PhD?](https://www.quora.com/What-are-good-companies-or-job-positions-for-an-aspiring-data-scientist-without-a-PhD/answer/Ryan-Elmore-2?srid=z3JD)
 - [What are the most valuable skills to learn for a data scientist now?](https://www.quora.com/What-are-the-most-valuable-skills-to-learn-for-a-data-scientist-now/answer/Paul-Jeon-3?srid=z3JD)
+- [How do you recruit data scientists?](https://www.quora.com/How-do-you-recruit-data-scientists/answer/Claudia-Perlich?srid=z3JD)
+- [What are some of the best resources to prepare for data science interviews?](https://www.quora.com/What-are-some-of-the-best-resources-to-prepare-for-data-science-interviews/answer/Claudia-Perlich?srid=z3JD)
+- [What are the greatest inefficiencies data scientists face today?](https://www.quora.com/What-are-the-greatest-inefficiencies-data-scientists-face-today/answer/Claudia-Perlich?srid=z3JD)
 
 ### Startup
 
