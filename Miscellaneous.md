@@ -73,6 +73,11 @@ title: Keyur Doshi - Miscellaneous
 - [What are the various resources from which I can get the knowledge of Apache Flink?](https://www.quora.com/What-are-the-various-resources-from-which-I-can-get-the-knowledge-of-Apache-Flink/answer/Fabian-Hueske?srid=z3JD)
 - [Top Apache Spark Interview questions](https://intellipaat.com/interview-question/apache-spark-interview-questions/)
 
+### Amazon Web Services
+- [What is the best way to learn to use Amazon AWS?](https://www.quora.com/What-is-the-best-way-to-learn-to-use-Amazon-AWS/answer/Leonardo-Federico-1?srid=z3JD)
+- [Setting up Hadoop Cluser on AWS](https://acadgild.com/blog/setting-hadoop-cluster-cloud/)
+- [Setup multi-node Hadoop Cluster on Amazon EC2](https://dzone.com/articles/how-set-multi-node-hadoop)
+
 ### Life Advice
 
 - [What is it that nobody tells you about adult life? by Nelson Wang](https://www.quora.com/What-is-it-that-nobody-tells-you-about-adult-life/answer/Nelson-Wang-2?srid=z3JD&share=197d3ce1)
