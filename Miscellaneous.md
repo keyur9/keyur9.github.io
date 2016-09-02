@@ -43,6 +43,7 @@ title: Keyur Doshi - Miscellaneous
 - [What are some of the best resources to prepare for data science interviews?](https://www.quora.com/What-are-some-of-the-best-resources-to-prepare-for-data-science-interviews/answer/Claudia-Perlich?srid=z3JD)
 - [What are the greatest inefficiencies data scientists face today?](https://www.quora.com/What-are-the-greatest-inefficiencies-data-scientists-face-today/answer/Claudia-Perlich?srid=z3JD)
 - [A Data Scientist's Real job: Storytelling](https://hbr.org/2013/03/a-data-scientists-real-job-sto)
+- [Getting your first job in data science](http://www.jeannicholashould.com/getting-your-first-job-in-data-science.html)
 
 ### Startup
 
@@ -76,11 +77,16 @@ title: Keyur Doshi - Miscellaneous
 - [Is there any online training institue which is giving training on Apache Flink?](https://www.quora.com/Is-there-any-online-training-institue-which-is-giving-training-on-Apache-Flink/answer/Henry-Saputra?srid=z3JD)
 - [What are the various resources from which I can get the knowledge of Apache Flink?](https://www.quora.com/What-are-the-various-resources-from-which-I-can-get-the-knowledge-of-Apache-Flink/answer/Fabian-Hueske?srid=z3JD)
 - [Top Apache Spark Interview questions](https://intellipaat.com/interview-question/apache-spark-interview-questions/)
+- [Building a recommendation engine with AWS Data Pipeline + EMR + Spark](https://medium.com/@HubbaDev/building-a-recommendation-engine-with-aws-data-pipeline-elastic-mapreduce-and-spark-ad886b0a1434#.m0sg22xne)
 
 ### Amazon Web Services
 - [What is the best way to learn to use Amazon AWS?](https://www.quora.com/What-is-the-best-way-to-learn-to-use-Amazon-AWS/answer/Leonardo-Federico-1?srid=z3JD)
 - [Setting up Hadoop Cluser on AWS](https://acadgild.com/blog/setting-hadoop-cluster-cloud/)
 - [Setup multi-node Hadoop Cluster on Amazon EC2](https://dzone.com/articles/how-set-multi-node-hadoop)
+
+
+## Machine Learning
+- [The 10 Algorithms Machine Learning Engineers Need to Know](http://www.kdnuggets.com/2016/08/10-algorithms-machine-learning-engineers.html/1)
 
 ### Life Advice
 
