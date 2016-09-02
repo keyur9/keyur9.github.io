@@ -42,6 +42,7 @@ title: Keyur Doshi - Miscellaneous
 - [How do you recruit data scientists?](https://www.quora.com/How-do-you-recruit-data-scientists/answer/Claudia-Perlich?srid=z3JD)
 - [What are some of the best resources to prepare for data science interviews?](https://www.quora.com/What-are-some-of-the-best-resources-to-prepare-for-data-science-interviews/answer/Claudia-Perlich?srid=z3JD)
 - [What are the greatest inefficiencies data scientists face today?](https://www.quora.com/What-are-the-greatest-inefficiencies-data-scientists-face-today/answer/Claudia-Perlich?srid=z3JD)
+- [A Data Scientist's Real job: Storytelling](https://hbr.org/2013/03/a-data-scientists-real-job-sto)
 
 ### Startup
 
