@@ -78,6 +78,7 @@ title: Keyur Doshi - Miscellaneous
 - [What are the various resources from which I can get the knowledge of Apache Flink?](https://www.quora.com/What-are-the-various-resources-from-which-I-can-get-the-knowledge-of-Apache-Flink/answer/Fabian-Hueske?srid=z3JD)
 - [Top Apache Spark Interview questions](https://intellipaat.com/interview-question/apache-spark-interview-questions/)
 - [Building a recommendation engine with AWS Data Pipeline + EMR + Spark](https://medium.com/@HubbaDev/building-a-recommendation-engine-with-aws-data-pipeline-elastic-mapreduce-and-spark-ad886b0a1434#.m0sg22xne)
+- [Future of Apache Spark](https://0x0fff.com/apache-spark-future/)
 
 ### Amazon Web Services
 - [What is the best way to learn to use Amazon AWS?](https://www.quora.com/What-is-the-best-way-to-learn-to-use-Amazon-AWS/answer/Leonardo-Federico-1?srid=z3JD)
