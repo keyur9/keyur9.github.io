@@ -89,6 +89,10 @@ title: Keyur Doshi - Miscellaneous
 ### Machine Learning
 - [The 10 Algorithms Machine Learning Engineers Need to Know](http://www.kdnuggets.com/2016/08/10-algorithms-machine-learning-engineers.html/1)
 
+### Recommendation Systems
+- [What is the Alternating Least Squares method in recommendation systems?](https://www.quora.com/What-is-the-Alternating-Least-Squares-method-in-recommendation-systems/answer/Xavier-Amatriain?srid=z3JD)
+- [Difference between item-to-item collaborative filtering and content-based filtering?](https://www.quora.com/Recommendation-Systems-What-is-the-difference-between-item-to-item-collaborative-filtering-and-content-based-filtering/answer/Boaz-Ronkin?srid=z3JD)
+
 ### Life Advice
 
 - [What is it that nobody tells you about adult life? by Nelson Wang](https://www.quora.com/What-is-it-that-nobody-tells-you-about-adult-life/answer/Nelson-Wang-2?srid=z3JD&share=197d3ce1)
