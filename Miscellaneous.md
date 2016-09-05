@@ -5,7 +5,7 @@ title: Keyur Doshi - Miscellaneous
 
 ---
 
-## List of Favourite Quora Questions / Answers:
+### I found these interesting links while browsing through the Internet. Since I have a lot of bookmarks cluttered in my browser, I am simply posting these links here as a page for my and perhaps your convenience:
 
 ### Career Advice
 
