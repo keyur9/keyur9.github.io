@@ -93,6 +93,7 @@ title: Keyur Doshi - Miscellaneous
 - [What is the Alternating Least Squares method in recommendation systems?](https://www.quora.com/What-is-the-Alternating-Least-Squares-method-in-recommendation-systems/answer/Xavier-Amatriain?srid=z3JD)
 - [Difference between item-to-item collaborative filtering and content-based filtering?](https://www.quora.com/Recommendation-Systems-What-is-the-difference-between-item-to-item-collaborative-filtering-and-content-based-filtering/answer/Boaz-Ronkin?srid=z3JD)
 - [How to exclude item bias from a simple co-occurence based recommender system?](https://www.quora.com/How-do-I-exclude-item-bias-from-a-simple-co-occurrence-based-recommender-system/answer/Saket-Tiwari?srid=z3JD&share=24fb1edf)
+- [How do you measure and evaluate the quality of recommendation engines?](https://www.quora.com/How-do-you-measure-and-evaluate-the-quality-of-recommendation-engines/answer/Edwin-Chen-1?srid=z3JD)
 
 ### Life Advice
 
