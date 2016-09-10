@@ -73,7 +73,7 @@ Cummulative GPA: 3.2 / 4.0 <br/>
 ### PERSONAL PROJECTS
 
 <strong> [Netflix For Education](https://github.com/keyur9/Course-Based-Recommendation-System) </strong> <br/>
-- Building a recommender system on student’s desired area of interest, either gleaned from past registrations history or expressed preferences. <br/>
+- Building a recommender system on student’s desired area of interest, either gleaned from past registrations history or expressed preferences with an aim to empower students to reach maximum potential. <br/>
 - Incorporating additional data sources such as MOOC course, YouTube video, Google Scholar papers to produce a broader recommendation set. <br/>
 
 <strong>[Web Server Log Analysis](https://github.com/keyur9/Big-Data-Analysis-using-Apache-Spark)</strong><br/>
