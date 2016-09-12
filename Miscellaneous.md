@@ -95,6 +95,10 @@ title: Keyur Doshi - Miscellaneous
 - [How to exclude item bias from a simple co-occurence based recommender system?](https://www.quora.com/How-do-I-exclude-item-bias-from-a-simple-co-occurrence-based-recommender-system/answer/Saket-Tiwari?srid=z3JD&share=24fb1edf)
 - [How do you measure and evaluate the quality of recommendation engines?](https://www.quora.com/How-do-you-measure-and-evaluate-the-quality-of-recommendation-engines/answer/Edwin-Chen-1?srid=z3JD)
 - [What is the difference between SVD and matrix factorization in context of recommendation engine?](https://www.quora.com/What-is-the-difference-between-SVD-and-matrix-factorization-in-context-of-recommendation-engine/answer/Sean-Owen?srid=z3JD)
+- [I have seen Alternating Least Squares (ALS), SVD and NMF (Non negative matrix factorization) used for recommendation systems. Apart from the optimization function how are the approaches different? In what situations would one be better than the other?](https://www.quora.com/I-have-seen-Alternating-Least-Squares-ALS-SVD-and-NMF-Non-negative-matrix-factorization-used-for-recommendation-systems-Apart-from-the-optimization-function-how-are-the-approaches-different-In-what-situations-would-one-be-better-than-the-other/answer/Xavier-Amatriain?srid=z3JD)
+- [What's the difference between matrix factorization and collaborative filtering?](https://www.quora.com/Whats-the-difference-between-matrix-factorization-and-collaborative-filtering/answer/Erik-Bernhardsson?srid=z3JD)
+- [Why does latent factor model (matrix factorization) better than neighborhood model in collaborative filtering?](https://www.quora.com/Why-does-latent-factor-model-matrix-factorization-better-than-neighborhood-model-in-collaborative-filtering/answer/Abhinav-Maurya?srid=z3JD)
+- [What is matrix factorization?](https://www.quora.com/What-is-matrix-factorization/answer/Prasoon-Goyal?srid=z3JD)
 
 ### Life Advice
 
