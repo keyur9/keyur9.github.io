@@ -88,6 +88,7 @@ title: Keyur Doshi - Miscellaneous
 
 ### Machine Learning
 - [The 10 Algorithms Machine Learning Engineers Need to Know](http://www.kdnuggets.com/2016/08/10-algorithms-machine-learning-engineers.html/1)
+- [What would be your advice to a software engineer who wants to learn machine learning?](https://www.quora.com/What-would-be-your-advice-to-a-software-engineer-who-wants-to-learn-machine-learning-3/answer/Alex-Smola-1?srid=z3JD)
 
 ### Recommendation Systems
 - [What is the Alternating Least Squares method in recommendation systems?](https://www.quora.com/What-is-the-Alternating-Least-Squares-method-in-recommendation-systems/answer/Xavier-Amatriain?srid=z3JD)
