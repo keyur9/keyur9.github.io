@@ -44,6 +44,7 @@ title: Keyur Doshi - Miscellaneous
 - [What are the greatest inefficiencies data scientists face today?](https://www.quora.com/What-are-the-greatest-inefficiencies-data-scientists-face-today/answer/Claudia-Perlich?srid=z3JD)
 - [A Data Scientist's Real job: Storytelling](https://hbr.org/2013/03/a-data-scientists-real-job-sto)
 - [Getting your first job in data science](http://www.jeannicholashould.com/getting-your-first-job-in-data-science.html)
+- [What are typical skills possessed by data scientists specialized in "search" that most other data scientists would probably not have?](https://www.quora.com/What-are-typical-skills-possessed-by-data-scientists-specialized-in-search-that-most-other-data-scientists-would-probably-not-have/answer/Nikhil-Dandekar?srid=z3JD)
 
 ### Startup
 
@@ -89,6 +90,7 @@ title: Keyur Doshi - Miscellaneous
 ### Machine Learning
 - [The 10 Algorithms Machine Learning Engineers Need to Know](http://www.kdnuggets.com/2016/08/10-algorithms-machine-learning-engineers.html/1)
 - [What would be your advice to a software engineer who wants to learn machine learning?](https://www.quora.com/What-would-be-your-advice-to-a-software-engineer-who-wants-to-learn-machine-learning-3/answer/Alex-Smola-1?srid=z3JD)
+- [How can one become a good machine learning engineer?](https://www.quora.com/How-can-one-become-a-good-machine-learning-engineer/answer/Nikhil-Dandekar?srid=z3JD)
 
 ### Recommendation Systems
 - [What is the Alternating Least Squares method in recommendation systems?](https://www.quora.com/What-is-the-Alternating-Least-Squares-method-in-recommendation-systems/answer/Xavier-Amatriain?srid=z3JD)
@@ -100,6 +102,7 @@ title: Keyur Doshi - Miscellaneous
 - [What's the difference between matrix factorization and collaborative filtering?](https://www.quora.com/Whats-the-difference-between-matrix-factorization-and-collaborative-filtering/answer/Erik-Bernhardsson?srid=z3JD)
 - [Why does latent factor model (matrix factorization) better than neighborhood model in collaborative filtering?](https://www.quora.com/Why-does-latent-factor-model-matrix-factorization-better-than-neighborhood-model-in-collaborative-filtering/answer/Abhinav-Maurya?srid=z3JD)
 - [What is matrix factorization?](https://www.quora.com/What-is-matrix-factorization/answer/Prasoon-Goyal?srid=z3JD)
+- [How can one A/B test measures such as relevance, recall, precision etc. of a search engine?](https://www.quora.com/How-can-one-A-B-test-measures-such-as-relevance-recall-precision-etc-of-a-search-engine/answer/Nikhil-Dandekar?srid=z3JD)
 
 ### Life Advice
 
