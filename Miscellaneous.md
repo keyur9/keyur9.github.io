@@ -54,7 +54,7 @@ title: Keyur Doshi - Miscellaneous
 - [Can you successfully sue an entrepreneur for stealing your idea and nothing else? by Brett Fox](https://www.quora.com/Can-you-successfully-sue-an-entrepreneur-for-stealing-your-idea-and-nothing-else/answer/Brett-Fox-8?srid=z3JD&share=e8adb293)
 - [I'm a student creating a startup. What do I do now?](https://www.quora.com/Im-a-student-creating-a-start-up-What-do-I-do-now/answer/Michael-Wolfe?srid=z3JD)
 - [What advice will you give a person to start an educational startup?](https://www.quora.com/What-advice-will-you-give-a-person-to-start-an-educational-startup/answer/Sebastian-Thrun?srid=z3JD)
-
+- [What are the most notable EdTech failures? Why did they fail?](https://www.quora.com/What-are-the-most-notable-EdTech-failures-Why-did-they-fail/answer/Omri-Mendels-1?srid=z3JD)
 
 ### Apache Spark
 
