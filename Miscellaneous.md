@@ -103,6 +103,7 @@ title: Keyur Doshi - Miscellaneous
 - [Why does latent factor model (matrix factorization) better than neighborhood model in collaborative filtering?](https://www.quora.com/Why-does-latent-factor-model-matrix-factorization-better-than-neighborhood-model-in-collaborative-filtering/answer/Abhinav-Maurya?srid=z3JD)
 - [What is matrix factorization?](https://www.quora.com/What-is-matrix-factorization/answer/Prasoon-Goyal?srid=z3JD)
 - [How can one A/B test measures such as relevance, recall, precision etc. of a search engine?](https://www.quora.com/How-can-one-A-B-test-measures-such-as-relevance-recall-precision-etc-of-a-search-engine/answer/Nikhil-Dandekar?srid=z3JD)
+- [Slope One predictors for rating-based collaborative filtering](http://lemire.me/fr/documents/publications/lemiremaclachlan_sdm05.pdf)
 
 ### Life Advice
 
