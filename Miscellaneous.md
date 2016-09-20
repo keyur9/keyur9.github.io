@@ -104,6 +104,9 @@ title: Keyur Doshi - Miscellaneous
 - [What is matrix factorization?](https://www.quora.com/What-is-matrix-factorization/answer/Prasoon-Goyal?srid=z3JD)
 - [How can one A/B test measures such as relevance, recall, precision etc. of a search engine?](https://www.quora.com/How-can-one-A-B-test-measures-such-as-relevance-recall-precision-etc-of-a-search-engine/answer/Nikhil-Dandekar?srid=z3JD)
 - [Slope One predictors for rating-based collaborative filtering](http://lemire.me/fr/documents/publications/lemiremaclachlan_sdm05.pdf)
+- [Evaluating Recommender System](http://fastml.com/evaluating-recommender-systems/)
+- [Metrics used to evaluate Recommender System](http://aimotion.blogspot.com/2011/05/evaluating-recommender-systems.html)
+- [What metrics are used for evaluating recommender systems?](https://www.quora.com/What-metrics-are-used-for-evaluating-recommender-systems/answer/Sean-Owen?srid=z3JD)
 
 ### Life Advice
 
