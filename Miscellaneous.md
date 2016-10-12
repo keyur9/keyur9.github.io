@@ -107,6 +107,8 @@ title: Keyur Doshi - Miscellaneous
 - [Evaluating Recommender System](http://fastml.com/evaluating-recommender-systems/)
 - [Metrics used to evaluate Recommender System](http://aimotion.blogspot.com/2011/05/evaluating-recommender-systems.html)
 - [What metrics are used for evaluating recommender systems?](https://www.quora.com/What-metrics-are-used-for-evaluating-recommender-systems/answer/Sean-Owen?srid=z3JD)
+- [What is an intuitive explanation for the expectation maximization (EM) algorithm?](https://www.quora.com/What-is-an-intuitive-explanation-for-the-expectation-maximization-EM-algorithm/answer/Eren-Golge?srid=z3JD&share=1de973d7)
+- [What is the expectation-maximization (EM) algorithm?](https://www.quora.com/What-is-the-expectation-maximization-EM-algorithm/answer/Ope-Osoba?srid=z3JD&share=4674e261)
 
 ### Life Advice
 
@@ -143,6 +145,7 @@ title: Keyur Doshi - Miscellaneous
 - [Useful guide to launching better version of  your life](http://blog.thefirehoseproject.com/posts/a-useful-guide-to-launching-better-version-of-your-life/?utm_source=quora&utm_medium=quora_ken_answer&utm_campaign=quora_answers)
 - [If I am not my thoughts, who am I?](https://www.quora.com/If-I-am-not-my-thoughts-who-am-I/answer/Vichitra-Zawar?srid=z3JD)
 - [What habits did you learn in India that have stuck?](https://www.quora.com/What-habits-did-you-learn-in-India-that-have-stuck/answer/Ben-A-Wise?srid=z3JD)
+- [Who has Elon Musk chosen as his successor in the eventuality of a premature departure?](https://www.quora.com/Who-has-Elon-Musk-chosen-as-his-successor-in-the-eventuality-of-a-premature-departure/answer/Charlie-Garcia-10?srid=z3JD&share=61c1b85f)
 
 ### Favourite YouTube Videos
 
