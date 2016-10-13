@@ -56,6 +56,7 @@ title: Keyur Doshi - Miscellaneous
 - [I'm a student creating a startup. What do I do now?](https://www.quora.com/Im-a-student-creating-a-start-up-What-do-I-do-now/answer/Michael-Wolfe?srid=z3JD)
 - [What advice will you give a person to start an educational startup?](https://www.quora.com/What-advice-will-you-give-a-person-to-start-an-educational-startup/answer/Sebastian-Thrun?srid=z3JD)
 - [What are the most notable EdTech failures? Why did they fail?](https://www.quora.com/What-are-the-most-notable-EdTech-failures-Why-did-they-fail/answer/Omri-Mendels-1?srid=z3JD)
+- [Bootstrapping with a paycheck?](http://www.sramanamitra.com/2013/04/18/bootstrapping-with-a-paycheck/)
 
 ### Apache Spark
 
