@@ -94,6 +94,9 @@ title: Keyur Doshi - Miscellaneous
 - [What would be your advice to a software engineer who wants to learn machine learning?](https://www.quora.com/What-would-be-your-advice-to-a-software-engineer-who-wants-to-learn-machine-learning-3/answer/Alex-Smola-1?srid=z3JD)
 - [How can one become a good machine learning engineer?](https://www.quora.com/How-can-one-become-a-good-machine-learning-engineer/answer/Nikhil-Dandekar?srid=z3JD)
 
+### Artificial Intelligence
+- [I want to create a machine learning based chatbot from A to Z, from where can I start?](https://www.quora.com/I-want-to-create-a-machine-learning-based-chatbot-from-A-to-Z-from-where-can-I-start/answer/Stefan-Kojouharov?srid=z3JD&share=8efa781a)
+
 ### Recommendation Systems
 - [What is the Alternating Least Squares method in recommendation systems?](https://www.quora.com/What-is-the-Alternating-Least-Squares-method-in-recommendation-systems/answer/Xavier-Amatriain?srid=z3JD)
 - [Difference between item-to-item collaborative filtering and content-based filtering?](https://www.quora.com/Recommendation-Systems-What-is-the-difference-between-item-to-item-collaborative-filtering-and-content-based-filtering/answer/Boaz-Ronkin?srid=z3JD)
