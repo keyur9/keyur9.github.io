@@ -151,6 +151,7 @@ title: Keyur Doshi - Miscellaneous
 - [If I am not my thoughts, who am I?](https://www.quora.com/If-I-am-not-my-thoughts-who-am-I/answer/Vichitra-Zawar?srid=z3JD)
 - [What habits did you learn in India that have stuck?](https://www.quora.com/What-habits-did-you-learn-in-India-that-have-stuck/answer/Ben-A-Wise?srid=z3JD)
 - [Who has Elon Musk chosen as his successor in the eventuality of a premature departure?](https://www.quora.com/Who-has-Elon-Musk-chosen-as-his-successor-in-the-eventuality-of-a-premature-departure/answer/Charlie-Garcia-10?srid=z3JD&share=61c1b85f)
+- [What are the mysteries in real places that even science cannot yet explain?](https://www.quora.com/What-are-the-mysteries-in-real-places-that-even-science-cannot-yet-explain/answer/Saran-Udayakumar?srid=z3JD)
 
 ### Favourite YouTube Videos
 
