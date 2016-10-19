@@ -26,6 +26,7 @@ title: Keyur Doshi - Miscellaneous
 
 - [How can I become a data scientist? by Rahul Agarwal](https://www.quora.com/How-can-I-become-a-data-scientist-1/answer/Rahul-Agarwal-10?srid=z3JD&share=882a859d)
 - [XGBoost](http://dmlc.ml/rstats/2016/03/10/xgboost.html)
+- [XGBoost in R](https://www.analyticsvidhya.com/blog/2016/01/xgboost-algorithm-easy-steps/?utm_content=buffer32c71&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer)
 - [Misusing P-values](http://fivethirtyeight.com/features/statisticians-found-one-thing-they-can-agree-on-its-time-to-stop-misusing-p-values/)
 - [Answer on @Quora by Taposh Dutta-Roy to What is your data science pipeline/workflow?](https://www.quora.com/What-is-your-data-science-pipeline-workflow/answer/Taposh-Dutta-Roy?srid=z3JD&share=e444ee1d)
 - [What should I learn in data science in 100 hours? by Roman Trusov](https://www.quora.com/What-should-I-learn-in-data-science-in-100-hours/answer/Roman-Trusov?srid=z3JD&share=090526c5)
