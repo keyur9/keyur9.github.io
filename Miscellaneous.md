@@ -116,6 +116,7 @@ title: Keyur Doshi - Miscellaneous
 - [What metrics are used for evaluating recommender systems?](https://www.quora.com/What-metrics-are-used-for-evaluating-recommender-systems/answer/Sean-Owen?srid=z3JD)
 - [What is an intuitive explanation for the expectation maximization (EM) algorithm?](https://www.quora.com/What-is-an-intuitive-explanation-for-the-expectation-maximization-EM-algorithm/answer/Eren-Golge?srid=z3JD&share=1de973d7)
 - [What is the expectation-maximization (EM) algorithm?](https://www.quora.com/What-is-the-expectation-maximization-EM-algorithm/answer/Ope-Osoba?srid=z3JD&share=4674e261)
+- [Deep Neural Networks for YouTube Recommendations](http://research.google.com/pubs/pub45530.html)
 
 ### Life Advice
 
