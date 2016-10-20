@@ -47,6 +47,7 @@ title: Keyur Doshi - Miscellaneous
 - [Getting your first job in data science](http://www.jeannicholashould.com/getting-your-first-job-in-data-science.html)
 - [What are typical skills possessed by data scientists specialized in "search" that most other data scientists would probably not have?](https://www.quora.com/What-are-typical-skills-possessed-by-data-scientists-specialized-in-search-that-most-other-data-scientists-would-probably-not-have/answer/Nikhil-Dandekar?srid=z3JD)
 - [On Calculating AUC](http://www.win-vector.com/blog/2016/10/on-calculating-auc/)
+- [What are the limits of hidden Markov models?](https://www.quora.com/What-are-the-limits-of-hidden-Markov-models/answer/Roman-Trusov?srid=z3JD)
 
 ### Startup
 
