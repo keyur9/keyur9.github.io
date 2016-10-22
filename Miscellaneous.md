@@ -48,6 +48,7 @@ title: Keyur Doshi - Miscellaneous
 - [What are typical skills possessed by data scientists specialized in "search" that most other data scientists would probably not have?](https://www.quora.com/What-are-typical-skills-possessed-by-data-scientists-specialized-in-search-that-most-other-data-scientists-would-probably-not-have/answer/Nikhil-Dandekar?srid=z3JD)
 - [On Calculating AUC](http://www.win-vector.com/blog/2016/10/on-calculating-auc/)
 - [What are the limits of hidden Markov models?](https://www.quora.com/What-are-the-limits-of-hidden-Markov-models/answer/Roman-Trusov?srid=z3JD)
+- [If artificial neural networks were redesigned from scratch based on our current knowledge of the human brain, what would be important differences?](https://www.quora.com/If-artificial-neural-networks-were-redesigned-from-scratch-based-on-our-current-knowledge-of-the-human-brain-what-would-be-important-differences/answer/Roman-Trusov?srid=z3JD)
 
 ### Startup
 
@@ -117,6 +118,7 @@ title: Keyur Doshi - Miscellaneous
 - [What is an intuitive explanation for the expectation maximization (EM) algorithm?](https://www.quora.com/What-is-an-intuitive-explanation-for-the-expectation-maximization-EM-algorithm/answer/Eren-Golge?srid=z3JD&share=1de973d7)
 - [What is the expectation-maximization (EM) algorithm?](https://www.quora.com/What-is-the-expectation-maximization-EM-algorithm/answer/Ope-Osoba?srid=z3JD&share=4674e261)
 - [Deep Neural Networks for YouTube Recommendations](http://research.google.com/pubs/pub45530.html)
+- [What is the recommended minimum training dataset size to train a deep neural network?](https://www.quora.com/What-is-the-recommended-minimum-training-dataset-size-to-train-a-deep-neural-network/answer/Roman-Trusov?srid=z3JD)
 
 ### Life Advice
 
