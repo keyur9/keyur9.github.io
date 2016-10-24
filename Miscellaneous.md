@@ -97,6 +97,7 @@ title: Keyur Doshi - Miscellaneous
 - [The 10 Algorithms Machine Learning Engineers Need to Know](http://www.kdnuggets.com/2016/08/10-algorithms-machine-learning-engineers.html/1)
 - [What would be your advice to a software engineer who wants to learn machine learning?](https://www.quora.com/What-would-be-your-advice-to-a-software-engineer-who-wants-to-learn-machine-learning-3/answer/Alex-Smola-1?srid=z3JD)
 - [How can one become a good machine learning engineer?](https://www.quora.com/How-can-one-become-a-good-machine-learning-engineer/answer/Nikhil-Dandekar?srid=z3JD)
+- [Which advanced machine learning algorithms should I learn?](https://www.quora.com/Which-advanced-machine-learning-algorithms-should-I-learn/answer/Roman-Trusov?srid=z3JD)
 
 ### Artificial Intelligence
 - [I want to create a machine learning based chatbot from A to Z, from where can I start?](https://www.quora.com/I-want-to-create-a-machine-learning-based-chatbot-from-A-to-Z-from-where-can-I-start/answer/Stefan-Kojouharov?srid=z3JD&share=8efa781a)
