@@ -49,6 +49,7 @@ title: Keyur Doshi - Miscellaneous
 - [On Calculating AUC](http://www.win-vector.com/blog/2016/10/on-calculating-auc/)
 - [What are the limits of hidden Markov models?](https://www.quora.com/What-are-the-limits-of-hidden-Markov-models/answer/Roman-Trusov?srid=z3JD)
 - [If artificial neural networks were redesigned from scratch based on our current knowledge of the human brain, what would be important differences?](https://www.quora.com/If-artificial-neural-networks-were-redesigned-from-scratch-based-on-our-current-knowledge-of-the-human-brain-what-would-be-important-differences/answer/Roman-Trusov?srid=z3JD)
+- [Bayesian AB testing better than Frequentist hypothesis AB testing](http://fportman.com/blog/bayesab-0-dot-7-0-plus-a-primer-on-priors/)
 
 ### Startup
 
