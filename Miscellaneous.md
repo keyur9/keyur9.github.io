@@ -50,6 +50,7 @@ title: Keyur Doshi - Miscellaneous
 - [What are the limits of hidden Markov models?](https://www.quora.com/What-are-the-limits-of-hidden-Markov-models/answer/Roman-Trusov?srid=z3JD)
 - [If artificial neural networks were redesigned from scratch based on our current knowledge of the human brain, what would be important differences?](https://www.quora.com/If-artificial-neural-networks-were-redesigned-from-scratch-based-on-our-current-knowledge-of-the-human-brain-what-would-be-important-differences/answer/Roman-Trusov?srid=z3JD)
 - [Bayesian AB testing better than Frequentist hypothesis AB testing](http://fportman.com/blog/bayesab-0-dot-7-0-plus-a-primer-on-priors/)
+- [How do I learn Data Science by “doing it”?](https://www.quora.com/How-do-I-learn-Data-Science-by-%E2%80%9Cdoing-it%E2%80%9D/answer/Alfred-Essa?srid=z3JD)
 
 ### Startup
 
