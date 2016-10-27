@@ -92,7 +92,7 @@ title: Keyur Doshi - Miscellaneous
 - [What is the best way to learn to use Amazon AWS?](https://www.quora.com/What-is-the-best-way-to-learn-to-use-Amazon-AWS/answer/Leonardo-Federico-1?srid=z3JD)
 - [Setting up Hadoop Cluser on AWS](https://acadgild.com/blog/setting-hadoop-cluster-cloud/)
 - [Setup multi-node Hadoop Cluster on Amazon EC2](https://dzone.com/articles/how-set-multi-node-hadoop)
-
+- [Good resources to learn AWS machine learning?](https://www.quora.com/Any-good-resources-to-learn-AWS-machine-learning/answer/Leonardo-Federico-1?srid=z3JD)
 
 ### Machine Learning
 - [The 10 Algorithms Machine Learning Engineers Need to Know](http://www.kdnuggets.com/2016/08/10-algorithms-machine-learning-engineers.html/1)
