@@ -99,9 +99,11 @@ title: Keyur Doshi - Miscellaneous
 - [What would be your advice to a software engineer who wants to learn machine learning?](https://www.quora.com/What-would-be-your-advice-to-a-software-engineer-who-wants-to-learn-machine-learning-3/answer/Alex-Smola-1?srid=z3JD)
 - [How can one become a good machine learning engineer?](https://www.quora.com/How-can-one-become-a-good-machine-learning-engineer/answer/Nikhil-Dandekar?srid=z3JD)
 - [Which advanced machine learning algorithms should I learn?](https://www.quora.com/Which-advanced-machine-learning-algorithms-should-I-learn/answer/Roman-Trusov?srid=z3JD)
+- [What are some tips for a beginning ML/data scientist who feels overwhelmed?](https://www.quora.com/What-are-some-tips-for-a-beginning-ML-data-scientist-who-feels-overwhelmed/answer/Sebastian-Raschka-1?srid=z3JD)
 
 ### Artificial Intelligence
 - [I want to create a machine learning based chatbot from A to Z, from where can I start?](https://www.quora.com/I-want-to-create-a-machine-learning-based-chatbot-from-A-to-Z-from-where-can-I-start/answer/Stefan-Kojouharov?srid=z3JD&share=8efa781a)
+- [What could be an interesting project in Python to learn artificial intelligence?](https://www.quora.com/What-could-be-an-interesting-project-in-Python-to-learn-artificial-intelligence/answer/Roman-Trusov?srid=z3JD)
 
 ### Recommendation Systems
 - [What is the Alternating Least Squares method in recommendation systems?](https://www.quora.com/What-is-the-Alternating-Least-Squares-method-in-recommendation-systems/answer/Xavier-Amatriain?srid=z3JD)
