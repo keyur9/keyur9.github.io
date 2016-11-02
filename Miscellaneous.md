@@ -51,6 +51,8 @@ title: Keyur Doshi - Miscellaneous
 - [If artificial neural networks were redesigned from scratch based on our current knowledge of the human brain, what would be important differences?](https://www.quora.com/If-artificial-neural-networks-were-redesigned-from-scratch-based-on-our-current-knowledge-of-the-human-brain-what-would-be-important-differences/answer/Roman-Trusov?srid=z3JD)
 - [Bayesian AB testing better than Frequentist hypothesis AB testing](http://fportman.com/blog/bayesab-0-dot-7-0-plus-a-primer-on-priors/)
 - [How do I learn Data Science by “doing it”?](https://www.quora.com/How-do-I-learn-Data-Science-by-%E2%80%9Cdoing-it%E2%80%9D/answer/Alfred-Essa?srid=z3JD)
+- [Data Science Iterview Question (Curated List)](https://www.springboard.com/blog/data-science-interview-questions/)
+- [10 piece of advice to beginner data scientist](https://shapescience.xyz/blog/10-pieces-of-advice-to-beginner-data-scientists/)
 
 ### Startup
 
