@@ -53,6 +53,7 @@ title: Keyur Doshi - Miscellaneous
 - [How do I learn Data Science by “doing it”?](https://www.quora.com/How-do-I-learn-Data-Science-by-%E2%80%9Cdoing-it%E2%80%9D/answer/Alfred-Essa?srid=z3JD)
 - [Data Science Iterview Question (Curated List)](https://www.springboard.com/blog/data-science-interview-questions/)
 - [10 piece of advice to beginner data scientist](https://shapescience.xyz/blog/10-pieces-of-advice-to-beginner-data-scientists/)
+- [Is Bayesian A/B Testing Immune to Peeking? Not Exactly](http://varianceexplained.org/r/bayesian-ab-testing/)
 
 ### Startup
 
