@@ -54,6 +54,7 @@ title: Keyur Doshi - Miscellaneous
 - [Data Science Iterview Question (Curated List)](https://www.springboard.com/blog/data-science-interview-questions/)
 - [10 piece of advice to beginner data scientist](https://shapescience.xyz/blog/10-pieces-of-advice-to-beginner-data-scientists/)
 - [Is Bayesian A/B Testing Immune to Peeking? Not Exactly](http://varianceexplained.org/r/bayesian-ab-testing/)
+- [How to get good at R?](http://www.arilamstein.com/blog/2016/10/18/get-good-r/)
 
 ### Startup
 
@@ -96,6 +97,7 @@ title: Keyur Doshi - Miscellaneous
 - [Setting up Hadoop Cluser on AWS](https://acadgild.com/blog/setting-hadoop-cluster-cloud/)
 - [Setup multi-node Hadoop Cluster on Amazon EC2](https://dzone.com/articles/how-set-multi-node-hadoop)
 - [Good resources to learn AWS machine learning?](https://www.quora.com/Any-good-resources-to-learn-AWS-machine-learning/answer/Leonardo-Federico-1?srid=z3JD)
+- [Real-time Clickstream Anomaly Detection with Amazon Kinesis Analytics](https://aws.amazon.com/blogs/big-data/real-time-clickstream-anomaly-detection-with-amazon-kinesis-analytics/)
 
 ### Machine Learning
 - [The 10 Algorithms Machine Learning Engineers Need to Know](http://www.kdnuggets.com/2016/08/10-algorithms-machine-learning-engineers.html/1)
