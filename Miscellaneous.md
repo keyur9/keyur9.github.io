@@ -143,9 +143,10 @@ title: Keyur Doshi - Miscellaneous
 - [What are 20 harsh life lessons everyone should learn in their 20s? by Alden Tan](https://www.quora.com/What-are-20-harsh-life-lessons-everyone-should-learn-in-their-20s/answer/Alden-Tan-1?srid=z3JD&share=27f7789e)
 - [How can I develop self confidence and self-esteem? by Gerard Danford](https://www.quora.com/How-can-I-develop-self-confidence-and-self-esteem/answer/Gerard-Danford?srid=z3JD&share=d4b0baa8)
 - [Answer on @Quora by Rich Tatum to What are the most difficult and useful things people have to learn in their 20s?](https://www.quora.com/What-are-the-most-difficult-and-useful-things-people-have-to-learn-in-their-20s/answer/Rich-Tatum?srid=z3JD&share=ac15bf41)
-- [Why are some very smart people so quiet?](https://www.quora.com/Why-are-some-very-smart-people-so-quiet/answer/Richard-Muller-3?srid=z3JD)
+- [How do I become strong mentally?Why are some very smart people so quiet?](https://www.quora.com/Why-are-some-very-smart-people-so-quiet/answer/Richard-Muller-3?srid=- [How exactly can I get out of this comfort zone by motivating myself?](https://www.quora.com/How-exactly-can-I-get-out-of-this-comfort-zone-by-motivating-myself/answers/29689782?srid=z3JD)z3JD)
 - [What are a few things that very successful people never do?](https://www.quora.com/What-are-a-few-things-that-very-successful-people-never-do/answer/Dean-Yeong?srid=z3JD)
-
+- [How do I become strong mentally?](https://www.quora.com/How-do-I-become-strong-mentally/answer/Charles-Chu?srid=z3JD)
+- [How exactly can I get out of this comfort zone by motivating myself?](https://www.quora.com/How-exactly-can-I-get-out-of-this-comfort-zone-by-motivating-myself/answers/29689782?srid=z3JD)
 
 ### Miscellanous
 
