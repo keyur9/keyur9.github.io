@@ -168,6 +168,7 @@ title: Keyur Doshi - Miscellaneous
 - [Who has Elon Musk chosen as his successor in the eventuality of a premature departure?](https://www.quora.com/Who-has-Elon-Musk-chosen-as-his-successor-in-the-eventuality-of-a-premature-departure/answer/Charlie-Garcia-10?srid=z3JD&share=61c1b85f)
 - [What are the mysteries in real places that even science cannot yet explain?](https://www.quora.com/What-are-the-mysteries-in-real-places-that-even-science-cannot-yet-explain/answer/Saran-Udayakumar?srid=z3JD)
 - [What are some good non-mathematical metaphors to explain Expectation-Maximization?](https://www.quora.com/What-are-some-good-non-mathematical-metaphors-to-explain-Expectation-Maximization/answer/Mehdi-Bahri?srid=z3JD)
+- [What are the economics of all-you-can-eat buffets?](https://www.quora.com/What-are-the-economics-of-all-you-can-eat-buffets/answer/Jonas-Mikka-Luster?srid=z3JD)
 
 ### Favourite YouTube Videos
 
