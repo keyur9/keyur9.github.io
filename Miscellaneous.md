@@ -170,6 +170,7 @@ title: Keyur Doshi - Miscellaneous
 - [What are some good non-mathematical metaphors to explain Expectation-Maximization?](https://www.quora.com/What-are-some-good-non-mathematical-metaphors-to-explain-Expectation-Maximization/answer/Mehdi-Bahri?srid=z3JD)
 - [What are the economics of all-you-can-eat buffets?](https://www.quora.com/What-are-the-economics-of-all-you-can-eat-buffets/answer/Jonas-Mikka-Luster?srid=z3JD)
 - [If you could recommend anything to me, what would it be?](https://www.quora.com/If-you-could-recommend-anything-to-me-what-would-it-be/answer/Ciprian-Blu?srid=z3JD)
+- [Passowrd Analysis based on countries](http://fsecurify.com/password-analysis-based-on-countries/)
 
 ### Favourite YouTube Videos
 
