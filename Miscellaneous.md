@@ -171,6 +171,7 @@ title: Keyur Doshi - Miscellaneous
 - [What are the economics of all-you-can-eat buffets?](https://www.quora.com/What-are-the-economics-of-all-you-can-eat-buffets/answer/Jonas-Mikka-Luster?srid=z3JD)
 - [If you could recommend anything to me, what would it be?](https://www.quora.com/If-you-could-recommend-anything-to-me-what-would-it-be/answer/Ciprian-Blu?srid=z3JD)
 - [Passowrd Analysis based on countries](http://fsecurify.com/password-analysis-based-on-countries/)
+- [I want to challenge myself to study for 6 hours everyday for a month. Do you have any tips that might help me?](https://www.quora.com/I-want-to-challenge-myself-to-study-for-6-hours-everyday-for-a-month-Do-you-have-any-tips-that-might-help-me/answer/Daria-Gbur-2?srid=z3JD)
 
 ### Favourite YouTube Videos
 
