@@ -109,6 +109,7 @@ title: Keyur Doshi - Miscellaneous
 ### Artificial Intelligence
 - [I want to create a machine learning based chatbot from A to Z, from where can I start?](https://www.quora.com/I-want-to-create-a-machine-learning-based-chatbot-from-A-to-Z-from-where-can-I-start/answer/Stefan-Kojouharov?srid=z3JD&share=8efa781a)
 - [What could be an interesting project in Python to learn artificial intelligence?](https://www.quora.com/What-could-be-an-interesting-project-in-Python-to-learn-artificial-intelligence/answer/Roman-Trusov?srid=z3JD)
+- [AI will revolutionize industry](https://edgylabs.com/2016/11/10/ai-revolutionizes-industries-skynet/)
 
 ### Recommendation Systems
 - [What is the Alternating Least Squares method in recommendation systems?](https://www.quora.com/What-is-the-Alternating-Least-Squares-method-in-recommendation-systems/answer/Xavier-Amatriain?srid=z3JD)
