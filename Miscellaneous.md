@@ -55,6 +55,7 @@ title: Keyur Doshi - Miscellaneous
 - [10 piece of advice to beginner data scientist](https://shapescience.xyz/blog/10-pieces-of-advice-to-beginner-data-scientists/)
 - [Is Bayesian A/B Testing Immune to Peeking? Not Exactly](http://varianceexplained.org/r/bayesian-ab-testing/)
 - [How to get good at R?](http://www.arilamstein.com/blog/2016/10/18/get-good-r/)
+- [Data Science Methodology](https://shapescience.xyz/blog/interview-data-science-methodology/)
 
 ### Startup
 
