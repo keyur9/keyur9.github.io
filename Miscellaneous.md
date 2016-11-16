@@ -68,6 +68,7 @@ title: Keyur Doshi - Miscellaneous
 - [What advice will you give a person to start an educational startup?](https://www.quora.com/What-advice-will-you-give-a-person-to-start-an-educational-startup/answer/Sebastian-Thrun?srid=z3JD)
 - [What are the most notable EdTech failures? Why did they fail?](https://www.quora.com/What-are-the-most-notable-EdTech-failures-Why-did-they-fail/answer/Omri-Mendels-1?srid=z3JD)
 - [Bootstrapping with a paycheck?](http://www.sramanamitra.com/2013/04/18/bootstrapping-with-a-paycheck/)
+- [What most startups believe to be product / market fit](http://www.saasgenius.com/blog/illusion-productmarket-fit-saas-companies)
 
 ### Apache Spark
 
