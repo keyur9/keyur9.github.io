@@ -56,6 +56,7 @@ title: Keyur Doshi - Miscellaneous
 - [Is Bayesian A/B Testing Immune to Peeking? Not Exactly](http://varianceexplained.org/r/bayesian-ab-testing/)
 - [How to get good at R?](http://www.arilamstein.com/blog/2016/10/18/get-good-r/)
 - [Data Science Methodology](https://shapescience.xyz/blog/interview-data-science-methodology/)
+- [Hiring Data Scientist: A classification problem](https://making.dia.co/hiring-data-scientists-a-classification-problem-456affe73592#.meo2d2zqu)
 
 ### Startup
 
