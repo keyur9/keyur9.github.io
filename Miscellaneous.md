@@ -57,6 +57,7 @@ title: Keyur Doshi - Miscellaneous
 - [How to get good at R?](http://www.arilamstein.com/blog/2016/10/18/get-good-r/)
 - [Data Science Methodology](https://shapescience.xyz/blog/interview-data-science-methodology/)
 - [Hiring Data Scientist: A classification problem](https://making.dia.co/hiring-data-scientists-a-classification-problem-456affe73592#.meo2d2zqu)
+- [Machine Learning Resource](https://www.linkedin.com/pulse/machine-learning-data-science-resources-you-should-know-elise-breda)
 
 ### Startup
 
@@ -182,4 +183,3 @@ title: Keyur Doshi - Miscellaneous
 
 - [I am a champion - the greatest speech ever](https://www.youtube.com/watch?v=yX39J_YyKbs&index=1&list=LLpfmK5WxmfkvAqAtLGnbNLg)
 - [The Falcon has landed - Recap of Falcon 9 launch and landing](https://www.youtube.com/watch?v=ANv5UfZsvZQ&index=2&list=LLpfmK5WxmfkvAqAtLGnbNLg)
-
