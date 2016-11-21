@@ -112,6 +112,7 @@ title: Keyur Doshi - Miscellaneous
 - [What are some tips for a beginning ML/data scientist who feels overwhelmed?](https://www.quora.com/What-are-some-tips-for-a-beginning-ML-data-scientist-who-feels-overwhelmed/answer/Sebastian-Raschka-1?srid=z3JD)
 - [Machine Learning Resource](https://www.linkedin.com/pulse/machine-learning-data-science-resources-you-should-know-elise-breda)
 - [Beating Kaggle the easy way](http://www.ke.tu-darmstadt.de/lehre/arbeiten/studien/2015/Dong_Ying.pdf)
+- [Bayesian algorithms are proportional to streaming algorithms](http://koaning.io/bayesian-propto-streaming-algorithms.html)
 
 ### Artificial Intelligence
 - [I want to create a machine learning based chatbot from A to Z, from where can I start?](https://www.quora.com/I-want-to-create-a-machine-learning-based-chatbot-from-A-to-Z-from-where-can-I-start/answer/Stefan-Kojouharov?srid=z3JD&share=8efa781a)
