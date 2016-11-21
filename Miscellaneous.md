@@ -57,7 +57,7 @@ title: Keyur Doshi - Miscellaneous
 - [How to get good at R?](http://www.arilamstein.com/blog/2016/10/18/get-good-r/)
 - [Data Science Methodology](https://shapescience.xyz/blog/interview-data-science-methodology/)
 - [Hiring Data Scientist: A classification problem](https://making.dia.co/hiring-data-scientists-a-classification-problem-456affe73592#.meo2d2zqu)
-- [Machine Learning Resource](https://www.linkedin.com/pulse/machine-learning-data-science-resources-you-should-know-elise-breda)
+- [Attempt to understand boosting algorithms](https://www.r-bloggers.com/an-attempt-to-understand-boosting-algorithms/)
 
 ### Startup
 
@@ -95,6 +95,7 @@ title: Keyur Doshi - Miscellaneous
 - [Top Apache Spark Interview questions](https://intellipaat.com/interview-question/apache-spark-interview-questions/)
 - [Building a recommendation engine with AWS Data Pipeline + EMR + Spark](https://medium.com/@HubbaDev/building-a-recommendation-engine-with-aws-data-pipeline-elastic-mapreduce-and-spark-ad886b0a1434#.m0sg22xne)
 - [Future of Apache Spark](https://0x0fff.com/apache-spark-future/)
+- [Predictive model deployment with spark](http://commitlogs.com/2016/11/19/predictive-model-deployment-with-spark/)
 
 ### Amazon Web Services
 - [What is the best way to learn to use Amazon AWS?](https://www.quora.com/What-is-the-best-way-to-learn-to-use-Amazon-AWS/answer/Leonardo-Federico-1?srid=z3JD)
@@ -109,11 +110,16 @@ title: Keyur Doshi - Miscellaneous
 - [How can one become a good machine learning engineer?](https://www.quora.com/How-can-one-become-a-good-machine-learning-engineer/answer/Nikhil-Dandekar?srid=z3JD)
 - [Which advanced machine learning algorithms should I learn?](https://www.quora.com/Which-advanced-machine-learning-algorithms-should-I-learn/answer/Roman-Trusov?srid=z3JD)
 - [What are some tips for a beginning ML/data scientist who feels overwhelmed?](https://www.quora.com/What-are-some-tips-for-a-beginning-ML-data-scientist-who-feels-overwhelmed/answer/Sebastian-Raschka-1?srid=z3JD)
+- [Machine Learning Resource](https://www.linkedin.com/pulse/machine-learning-data-science-resources-you-should-know-elise-breda)
+- [Beating Kaggle the easy way](http://www.ke.tu-darmstadt.de/lehre/arbeiten/studien/2015/Dong_Ying.pdf)
 
 ### Artificial Intelligence
 - [I want to create a machine learning based chatbot from A to Z, from where can I start?](https://www.quora.com/I-want-to-create-a-machine-learning-based-chatbot-from-A-to-Z-from-where-can-I-start/answer/Stefan-Kojouharov?srid=z3JD&share=8efa781a)
 - [What could be an interesting project in Python to learn artificial intelligence?](https://www.quora.com/What-could-be-an-interesting-project-in-Python-to-learn-artificial-intelligence/answer/Roman-Trusov?srid=z3JD)
 - [AI will revolutionize industry](https://edgylabs.com/2016/11/10/ai-revolutionizes-industries-skynet/)
+- [Transforming online lectures into customized course notes](https://blog.insightdatascience.com/takenote-transforming-online-lectures-into-customized-course-notes-80fd365fe439#.qqibqtmji)
+- [Removing eyeglasses from faces using Deep Learning](https://blog.insightdatascience.com/isee-removing-eyeglasses-from-faces-using-deep-learning-d4e7d935376f#.i2odsnktg)
+- [Exploring deep learning on satellite data](https://blog.insightdatascience.com/exploring-deep-learning-on-satellite-data-a17bf11781dc#.zcz3r1sbn)
 
 ### Recommendation Systems
 - [What is the Alternating Least Squares method in recommendation systems?](https://www.quora.com/What-is-the-Alternating-Least-Squares-method-in-recommendation-systems/answer/Xavier-Amatriain?srid=z3JD)
