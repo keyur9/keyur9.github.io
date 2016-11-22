@@ -121,6 +121,7 @@ title: Keyur Doshi - Miscellaneous
 - [Transforming online lectures into customized course notes](https://blog.insightdatascience.com/takenote-transforming-online-lectures-into-customized-course-notes-80fd365fe439#.qqibqtmji)
 - [Removing eyeglasses from faces using Deep Learning](https://blog.insightdatascience.com/isee-removing-eyeglasses-from-faces-using-deep-learning-d4e7d935376f#.i2odsnktg)
 - [Exploring deep learning on satellite data](https://blog.insightdatascience.com/exploring-deep-learning-on-satellite-data-a17bf11781dc#.zcz3r1sbn)
+- [Place recognition with WiFi fingerprints using Autoencoders and Neural Networks](https://github.com/aqibsaeed/Place-Recognition-using-Autoencoders-and-NN)
 
 ### Recommendation Systems
 - [What is the Alternating Least Squares method in recommendation systems?](https://www.quora.com/What-is-the-Alternating-Least-Squares-method-in-recommendation-systems/answer/Xavier-Amatriain?srid=z3JD)
