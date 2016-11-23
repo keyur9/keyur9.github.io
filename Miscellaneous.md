@@ -186,6 +186,7 @@ title: Keyur Doshi - Miscellaneous
 - [Passowrd Analysis based on countries](http://fsecurify.com/password-analysis-based-on-countries/)
 - [I want to challenge myself to study for 6 hours everyday for a month. Do you have any tips that might help me?](https://www.quora.com/I-want-to-challenge-myself-to-study-for-6-hours-everyday-for-a-month-Do-you-have-any-tips-that-might-help-me/answer/Daria-Gbur-2?srid=z3JD)
 - [Learn SQL Online](https://hackerlists.com/learn-sql-online/)
+- [Using NLP and Text Mining to understand how media coverage influenced the US presidential election](http://blog.aylien.com/using-nlp-and-text-mining-to-understand-how-media-coverage-influenced-the-us-presidential-election/)
 
 ### Favourite YouTube Videos
 
