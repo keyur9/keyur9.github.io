@@ -142,6 +142,7 @@ title: Keyur Doshi - Miscellaneous
 - [What is the expectation-maximization (EM) algorithm?](https://www.quora.com/What-is-the-expectation-maximization-EM-algorithm/answer/Ope-Osoba?srid=z3JD&share=4674e261)
 - [Deep Neural Networks for YouTube Recommendations](http://research.google.com/pubs/pub45530.html)
 - [What is the recommended minimum training dataset size to train a deep neural network?](https://www.quora.com/What-is-the-recommended-minimum-training-dataset-size-to-train-a-deep-neural-network/answer/Roman-Trusov?srid=z3JD)
+- [Users and Noise: The Magic Barrier of Recommender Systems](http://link.springer.com/chapter/10.1007%2F978-3-642-31454-4_20)
 
 ### Life Advice
 
