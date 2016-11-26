@@ -188,6 +188,7 @@ title: Keyur Doshi - Miscellaneous
 - [I want to challenge myself to study for 6 hours everyday for a month. Do you have any tips that might help me?](https://www.quora.com/I-want-to-challenge-myself-to-study-for-6-hours-everyday-for-a-month-Do-you-have-any-tips-that-might-help-me/answer/Daria-Gbur-2?srid=z3JD)
 - [Learn SQL Online](https://hackerlists.com/learn-sql-online/)
 - [Using NLP and Text Mining to understand how media coverage influenced the US presidential election](http://blog.aylien.com/using-nlp-and-text-mining-to-understand-how-media-coverage-influenced-the-us-presidential-election/)
+- [Top Python Books](http://www.aioptify.com/top-python-programming-books.php?utm_source=datatau&utm_medium=cpm&utm_campaign=toppythonbooks)
 
 ### Favourite YouTube Videos
 
