@@ -189,6 +189,7 @@ title: Keyur Doshi - Miscellaneous
 - [Learn SQL Online](https://hackerlists.com/learn-sql-online/)
 - [Using NLP and Text Mining to understand how media coverage influenced the US presidential election](http://blog.aylien.com/using-nlp-and-text-mining-to-understand-how-media-coverage-influenced-the-us-presidential-election/)
 - [Top Python Books](http://www.aioptify.com/top-python-programming-books.php?utm_source=datatau&utm_medium=cpm&utm_campaign=toppythonbooks)
+- [Visualizing 341M geo-located tweets. Powered by 4 Nvidia K40s](https://www.mapd.com/demos/tweetmap/)
 
 ### Favourite YouTube Videos
 
