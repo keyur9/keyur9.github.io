@@ -103,6 +103,7 @@ title: Keyur Doshi - Miscellaneous
 - [Setup multi-node Hadoop Cluster on Amazon EC2](https://dzone.com/articles/how-set-multi-node-hadoop)
 - [Good resources to learn AWS machine learning?](https://www.quora.com/Any-good-resources-to-learn-AWS-machine-learning/answer/Leonardo-Federico-1?srid=z3JD)
 - [Real-time Clickstream Anomaly Detection with Amazon Kinesis Analytics](https://aws.amazon.com/blogs/big-data/real-time-clickstream-anomaly-detection-with-amazon-kinesis-analytics/)
+- [How google is Challenging AWS](https://stratechery.com/2016/how-google-cloud-platform-is-challenging-aws/)
 
 ### Machine Learning
 - [The 10 Algorithms Machine Learning Engineers Need to Know](http://www.kdnuggets.com/2016/08/10-algorithms-machine-learning-engineers.html/1)
