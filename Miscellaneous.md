@@ -192,6 +192,7 @@ title: Keyur Doshi - Miscellaneous
 - [Top Python Books](http://www.aioptify.com/top-python-programming-books.php?utm_source=datatau&utm_medium=cpm&utm_campaign=toppythonbooks)
 - [Visualizing 341M geo-located tweets. Powered by 4 Nvidia K40s](https://www.mapd.com/demos/tweetmap/)
 - [A short guide to learn neural networks, and get famous and rich then.](https://chatbotslife.com/a-short-guide-to-learn-neural-networks-and-get-famous-and-rich-then-bf7da3cba76f#.1sv0fkf1j)
+- [What is a data portrait? A case study using India's demonetization](http://amitkaps.com/data-portraits)
 
 ### Favourite YouTube Videos
 
