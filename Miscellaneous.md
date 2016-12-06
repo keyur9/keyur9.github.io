@@ -193,6 +193,7 @@ title: Keyur Doshi - Miscellaneous
 - [Visualizing 341M geo-located tweets. Powered by 4 Nvidia K40s](https://www.mapd.com/demos/tweetmap/)
 - [A short guide to learn neural networks, and get famous and rich then.](https://chatbotslife.com/a-short-guide-to-learn-neural-networks-and-get-famous-and-rich-then-bf7da3cba76f#.1sv0fkf1j)
 - [What is a data portrait? A case study using India's demonetization](http://amitkaps.com/data-portraits)
+- [Ultimate guide to build Chatbots](https://chatbotslife.com/ultimate-guide-to-leveraging-nlp-machine-learning-for-you-chatbot-531ff2dd870c#.qq9she3wk)
 
 ### Favourite YouTube Videos
 
