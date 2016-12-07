@@ -194,6 +194,7 @@ title: Keyur Doshi - Miscellaneous
 - [A short guide to learn neural networks, and get famous and rich then.](https://chatbotslife.com/a-short-guide-to-learn-neural-networks-and-get-famous-and-rich-then-bf7da3cba76f#.1sv0fkf1j)
 - [What is a data portrait? A case study using India's demonetization](http://amitkaps.com/data-portraits)
 - [Ultimate guide to build Chatbots](https://chatbotslife.com/ultimate-guide-to-leveraging-nlp-machine-learning-for-you-chatbot-531ff2dd870c#.qq9she3wk)
+- [An Interactive Tutorial on Numerical Optimization](http://www.benfrederickson.com/numerical-optimization/)
 
 ### Favourite YouTube Videos
 
