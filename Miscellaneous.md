@@ -195,6 +195,7 @@ title: Keyur Doshi - Miscellaneous
 - [What is a data portrait? A case study using India's demonetization](http://amitkaps.com/data-portraits)
 - [Ultimate guide to build Chatbots](https://chatbotslife.com/ultimate-guide-to-leveraging-nlp-machine-learning-for-you-chatbot-531ff2dd870c#.qq9she3wk)
 - [An Interactive Tutorial on Numerical Optimization](http://www.benfrederickson.com/numerical-optimization/)
+- [The Most Boring/Valuable Data Science Advice](https://databozo.posthaven.com/the-most-boring-slash-valuable-data-science-advice)
 
 ### Favourite YouTube Videos
 
