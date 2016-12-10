@@ -196,6 +196,9 @@ title: Keyur Doshi - Miscellaneous
 - [Ultimate guide to build Chatbots](https://chatbotslife.com/ultimate-guide-to-leveraging-nlp-machine-learning-for-you-chatbot-531ff2dd870c#.qq9she3wk)
 - [An Interactive Tutorial on Numerical Optimization](http://www.benfrederickson.com/numerical-optimization/)
 - [The Most Boring/Valuable Data Science Advice](https://databozo.posthaven.com/the-most-boring-slash-valuable-data-science-advice)
+- [NIPS 2016 - Day 01](https://blog.insightdatascience.com/nips-2016-day-1-6ae1207cab82#.tqsv429mb)
+- [NIPS 2016 - Day 02](https://blog.insightdatascience.com/nips-2016-day-2-highlights-platform-wars-rl-and-rnns-9dca43bc1448#.d3j4ep5u5)
+- [NIPS 2016 - Day 03](https://blog.insightdatascience.com/nips-2016-day-3-highlights-robots-that-know-cars-that-see-and-more-1ec958896791#.es8rpmkbe)
 
 ### Favourite YouTube Videos
 
