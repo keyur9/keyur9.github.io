@@ -200,6 +200,7 @@ title: Keyur Doshi - Miscellaneous
 - [NIPS 2016 - Day 01](https://blog.insightdatascience.com/nips-2016-day-1-6ae1207cab82#.tqsv429mb)
 - [NIPS 2016 - Day 02](https://blog.insightdatascience.com/nips-2016-day-2-highlights-platform-wars-rl-and-rnns-9dca43bc1448#.d3j4ep5u5)
 - [NIPS 2016 - Day 03](https://blog.insightdatascience.com/nips-2016-day-3-highlights-robots-that-know-cars-that-see-and-more-1ec958896791#.es8rpmkbe)
+- [NIPS 2016 Final Highlights (Days 4-6)](https://blog.insightdatascience.com/nips-2016-final-highlights-days-4-6-likelihood-free-inference-dessert-analogies-and-much-more-ed7352d321ff#.c1zifwtk8)
 - [Analyzing the 2016 World Chess Championship](https://medium.com/pachyderm-data/analyzing-the-2016-world-chess-championship-b823d0d2fd11#.m3cgcw209)
 
 ### Favourite YouTube Videos
