@@ -205,6 +205,7 @@ title: Keyur Doshi - Miscellaneous
 - [Best AI and machine learning podcasts](https://www.springboard.com/blog/the-10-best-ai-data-science-and-machine-learning-podcasts/)
 - [Introduction to MongoDB and Python](http://www.pybloggers.com/introduction-to-mongodb-and-python/)
 - [Data Science Tutorial: Introduction to Bayesian Inference](https://www.datascience.com/blog/introduction-to-bayesian-inference-learn-data-science-tutorials)
+- [The Great A.I. Awakening](http://www.nytimes.com/2016/12/14/magazine/the-great-ai-awakening.html)
 
 ### Favourite YouTube Videos
 
