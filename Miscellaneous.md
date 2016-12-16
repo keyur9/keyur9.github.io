@@ -204,6 +204,7 @@ title: Keyur Doshi - Miscellaneous
 - [Analyzing the 2016 World Chess Championship](https://medium.com/pachyderm-data/analyzing-the-2016-world-chess-championship-b823d0d2fd11#.m3cgcw209)
 - [Best AI and machine learning podcasts](https://www.springboard.com/blog/the-10-best-ai-data-science-and-machine-learning-podcasts/)
 - [Introduction to MongoDB and Python](http://www.pybloggers.com/introduction-to-mongodb-and-python/)
+- [Data Science Tutorial: Introduction to Bayesian Inference](https://www.datascience.com/blog/introduction-to-bayesian-inference-learn-data-science-tutorials)
 
 ### Favourite YouTube Videos
 
