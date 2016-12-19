@@ -145,6 +145,7 @@ title: Keyur Doshi - Miscellaneous
 - [What is the recommended minimum training dataset size to train a deep neural network?](https://www.quora.com/What-is-the-recommended-minimum-training-dataset-size-to-train-a-deep-neural-network/answer/Roman-Trusov?srid=z3JD)
 - [Users and Noise: The Magic Barrier of Recommender Systems](http://link.springer.com/chapter/10.1007%2F978-3-642-31454-4_20)
 - [Using Keras' Pretrained Neural Networks for Visual Similarity Recommendations](http://blog.ethanrosenthal.com/2016/12/05/recasketch-keras/)
+- [Faster Implicit Matrix Factorization](http://www.benfrederickson.com/fast-implicit-matrix-factorization/)
 
 ### Life Advice
 
