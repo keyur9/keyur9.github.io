@@ -209,6 +209,7 @@ title: Keyur Doshi - Miscellaneous
 - [The Great A.I. Awakening](http://www.nytimes.com/2016/12/14/magazine/the-great-ai-awakening.html)
 - [A Visual and Interactive Guide to the Basics of Neural Networks](https://jalammar.github.io/visual-interactive-guide-basics-neural-networks/)
 - [Index-free data manipulation](http://www.win-vector.com/blog/2016/12/the-case-for-index-free-data-manipulation/)
+- [Yes you should understand backprop](https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b#.nyz2z18wp)
 
 ### Favourite YouTube Videos
 
