@@ -210,6 +210,7 @@ title: Keyur Doshi - Miscellaneous
 - [A Visual and Interactive Guide to the Basics of Neural Networks](https://jalammar.github.io/visual-interactive-guide-basics-neural-networks/)
 - [Index-free data manipulation](http://www.win-vector.com/blog/2016/12/the-case-for-index-free-data-manipulation/)
 - [Yes you should understand backprop](https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b#.nyz2z18wp)
+- [3 methods to deal with outliers](https://www.neuraldesigner.com/blog/3_methods_to_deal_with_outliers)
 
 ### Favourite YouTube Videos
 
