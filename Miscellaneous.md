@@ -96,6 +96,7 @@ title: Keyur Doshi - Miscellaneous
 - [Building a recommendation engine with AWS Data Pipeline + EMR + Spark](https://medium.com/@HubbaDev/building-a-recommendation-engine-with-aws-data-pipeline-elastic-mapreduce-and-spark-ad886b0a1434#.m0sg22xne)
 - [Future of Apache Spark](https://0x0fff.com/apache-spark-future/)
 - [Predictive model deployment with spark](http://commitlogs.com/2016/11/19/predictive-model-deployment-with-spark/)
+- [Time-series missing data imputation in Apache Spark](http://www.jowanza.com/post/154094307399/time-series-missing-data-imputation-in-apache)
 
 ### Amazon Web Services
 - [What is the best way to learn to use Amazon AWS?](https://www.quora.com/What-is-the-best-way-to-learn-to-use-Amazon-AWS/answer/Leonardo-Federico-1?srid=z3JD)
