@@ -212,6 +212,7 @@ title: Keyur Doshi - Miscellaneous
 - [Index-free data manipulation](http://www.win-vector.com/blog/2016/12/the-case-for-index-free-data-manipulation/)
 - [Yes you should understand backprop](https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b#.nyz2z18wp)
 - [3 methods to deal with outliers](https://www.neuraldesigner.com/blog/3_methods_to_deal_with_outliers)
+- [How to Pick Colors for Your Data Visualizations](https://learningd3.com/blog/how-to-pick-colors-for-your-data-visualization/)
 
 ### Favourite YouTube Videos
 
