@@ -214,7 +214,7 @@ title: Keyur Doshi - Miscellaneous
 - [3 methods to deal with outliers](https://www.neuraldesigner.com/blog/3_methods_to_deal_with_outliers)
 - [How to Pick Colors for Your Data Visualizations](https://learningd3.com/blog/how-to-pick-colors-for-your-data-visualization/)
 - [Top 10 Python libraries of 2016](https://tryolabs.com/blog/2016/12/20/top-10-python-libraries-of-2016/)
-- [ ] (https://www.quora.com/Why-hasnt-someone-reinvented-coding-to-make-it-simpler/answer/Kyle-Hewitt-8?srid=z3JD&share=34b9d7c5)
+- [Why hasn't someone reinvented coding to make it simpler](https://www.quora.com/Why-hasnt-someone-reinvented-coding-to-make-it-simpler/answer/Kyle-Hewitt-8?srid=z3JD&share=34b9d7c5)
 ### Favourite YouTube Videos
 
 - [I am a champion - the greatest speech ever](https://www.youtube.com/watch?v=yX39J_YyKbs&index=1&list=LLpfmK5WxmfkvAqAtLGnbNLg)
