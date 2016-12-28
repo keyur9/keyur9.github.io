@@ -124,6 +124,7 @@ title: Keyur Doshi - Miscellaneous
 - [Removing eyeglasses from faces using Deep Learning](https://blog.insightdatascience.com/isee-removing-eyeglasses-from-faces-using-deep-learning-d4e7d935376f#.i2odsnktg)
 - [Exploring deep learning on satellite data](https://blog.insightdatascience.com/exploring-deep-learning-on-satellite-data-a17bf11781dc#.zcz3r1sbn)
 - [Place recognition with WiFi fingerprints using Autoencoders and Neural Networks](https://github.com/aqibsaeed/Place-Recognition-using-Autoencoders-and-NN)
+- [The great A.I. awakening](http://www.nytimes.com/2016/12/14/magazine/the-great-ai-awakening.html?action=click&contentCollection=Asia%20Pacific&module=Trending&version=Full&region=Marginalia&pgtype=article&_r=0)
 
 ### Recommendation Systems
 - [What is the Alternating Least Squares method in recommendation systems?](https://www.quora.com/What-is-the-Alternating-Least-Squares-method-in-recommendation-systems/answer/Xavier-Amatriain?srid=z3JD)
@@ -215,6 +216,7 @@ title: Keyur Doshi - Miscellaneous
 - [How to Pick Colors for Your Data Visualizations](https://learningd3.com/blog/how-to-pick-colors-for-your-data-visualization/)
 - [Top 10 Python libraries of 2016](https://tryolabs.com/blog/2016/12/20/top-10-python-libraries-of-2016/)
 - [Why hasn't someone reinvented coding to make it simpler](https://www.quora.com/Why-hasnt-someone-reinvented-coding-to-make-it-simpler/answer/Kyle-Hewitt-8?srid=z3JD&share=34b9d7c5)
+
 ### Favourite YouTube Videos
 
 - [I am a champion - the greatest speech ever](https://www.youtube.com/watch?v=yX39J_YyKbs&index=1&list=LLpfmK5WxmfkvAqAtLGnbNLg)
