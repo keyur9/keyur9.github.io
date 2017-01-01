@@ -217,6 +217,7 @@ title: Keyur Doshi - Miscellaneous
 - [Top 10 Python libraries of 2016](https://tryolabs.com/blog/2016/12/20/top-10-python-libraries-of-2016/)
 - [Why hasn't someone reinvented coding to make it simpler](https://www.quora.com/Why-hasnt-someone-reinvented-coding-to-make-it-simpler/answer/Kyle-Hewitt-8?srid=z3JD&share=34b9d7c5)
 - [A library for probabilistic modeling, inference, and criticism](http://edwardlib.org/)
+- [A Kaggler's Guide to Model Stacking in Practice](http://blog.kaggle.com/2016/12/27/a-kagglers-guide-to-model-stacking-in-practice/)
 
 ### Favourite YouTube Videos
 
