@@ -125,6 +125,7 @@ title: Keyur Doshi - Miscellaneous
 - [Exploring deep learning on satellite data](https://blog.insightdatascience.com/exploring-deep-learning-on-satellite-data-a17bf11781dc#.zcz3r1sbn)
 - [Place recognition with WiFi fingerprints using Autoencoders and Neural Networks](https://github.com/aqibsaeed/Place-Recognition-using-Autoencoders-and-NN)
 - [The great A.I. awakening](http://www.nytimes.com/2016/12/14/magazine/the-great-ai-awakening.html?action=click&contentCollection=Asia%20Pacific&module=Trending&version=Full&region=Marginalia&pgtype=article&_r=0)
+- [World’s largest hedge fund to replace managers with artificial intelligence](https://www.theguardian.com/technology/2016/dec/22/bridgewater-associates-ai-artificial-intelligence-management)
 
 ### Recommendation Systems
 - [What is the Alternating Least Squares method in recommendation systems?](https://www.quora.com/What-is-the-Alternating-Least-Squares-method-in-recommendation-systems/answer/Xavier-Amatriain?srid=z3JD)
