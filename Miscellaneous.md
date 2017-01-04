@@ -149,6 +149,7 @@ title: Keyur Doshi - Miscellaneous
 - [Users and Noise: The Magic Barrier of Recommender Systems](http://link.springer.com/chapter/10.1007%2F978-3-642-31454-4_20)
 - [Using Keras' Pretrained Neural Networks for Visual Similarity Recommendations](http://blog.ethanrosenthal.com/2016/12/05/recasketch-keras/)
 - [Faster Implicit Matrix Factorization](http://www.benfrederickson.com/fast-implicit-matrix-factorization/)
+- [Who are the best experts on designing recommendation systems?](https://www.quora.com/Who-are-the-best-experts-on-designing-recommendation-systems/answer/Alex-Kamil?srid=z3JD)
 
 ### Life Advice
 
