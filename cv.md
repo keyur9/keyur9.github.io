@@ -34,6 +34,10 @@ Data Mining, Machine Learning; Probability and Statistics; Natural Language Proc
 
 ### PROFESSIONAL EXPERIENCE
 
+<strong>01.2017 &mdash; Present</strong><br/>
+<strong>[EdLab Teachers College Columbia University]()</strong>, New York, United States <br/>
+Position: Software Engineering<br/>
+
 <strong>06.2016 &mdash; 08.2016</strong><br/>
 <strong>[Argus Information & Advisory Services](http://argusinformation.com/www.argusinformation.com/eng/index.html)</strong>, New York, United States <br/>
 Position: Data & Application Solution Intern<br/>
